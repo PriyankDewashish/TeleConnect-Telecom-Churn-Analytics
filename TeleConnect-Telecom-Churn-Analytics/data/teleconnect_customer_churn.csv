@@ -1,0 +1,1001 @@
+﻿CustomerID,State,Region,PlanName,PlanType,PlanPriceINR,MonthlyEquivalentINR,DailyDataGB,TenureMonths,PaymentMethod,NetworkIssueReported,SupportCalls,ChurnStatus,ChurnReason
+TC10001,Karnataka,South,Premium 499,Monthly,499,499.0,3.0,23,Auto-Pay,No,0,No,Not Applicable
+TC10002,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,8,Auto-Pay,No,0,No,Not Applicable
+TC10003,West Bengal,East,Premium 499,Monthly,499,499.0,3.0,52,UPI,No,0,Yes,Poor Customer Service
+TC10004,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,11,Retail Recharge,Yes,0,Yes,Better Offer
+TC10005,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,54,Retail Recharge,No,1,No,Not Applicable
+TC10006,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,31,Retail Recharge,No,0,No,Not Applicable
+TC10007,Punjab,North,Value 799,Quarterly,799,266.33,1.5,12,UPI,No,3,No,Not Applicable
+TC10008,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,27,UPI,No,2,No,Not Applicable
+TC10009,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,14,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10010,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,58,UPI,No,1,No,Not Applicable
+TC10011,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,14,UPI,No,1,No,Not Applicable
+TC10012,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,9,Retail Recharge,No,0,No,Not Applicable
+TC10013,Uttar Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,16,Auto-Pay,No,1,No,Not Applicable
+TC10014,Tamil Nadu,South,Premium 499,Monthly,499,499.0,3.0,12,Retail Recharge,No,2,No,Not Applicable
+TC10015,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,46,Credit/Debit Card,No,0,No,Not Applicable
+TC10016,Haryana,North,Annual Plus 2999,Yearly,2999,249.92,2.0,16,Credit/Debit Card,No,0,No,Not Applicable
+TC10017,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,56,UPI,No,1,No,Not Applicable
+TC10018,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,19,UPI,No,1,No,Not Applicable
+TC10019,Maharashtra,West,Annual Max 3999,Yearly,3999,333.25,3.0,18,Credit/Debit Card,No,1,No,Not Applicable
+TC10020,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,47,Credit/Debit Card,No,1,No,Not Applicable
+TC10021,Odisha,East,Value 799,Quarterly,799,266.33,1.5,51,Retail Recharge,No,0,No,Not Applicable
+TC10022,Haryana,North,Unlimited 999,Quarterly,999,333.0,2.0,15,Credit/Debit Card,No,1,No,Not Applicable
+TC10023,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,48,Credit/Debit Card,No,0,No,Not Applicable
+TC10024,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,57,Credit/Debit Card,Yes,1,Yes,High Price
+TC10025,Kerala,South,Premium 499,Monthly,499,499.0,3.0,4,Credit/Debit Card,Yes,3,Yes,Network Issues
+TC10026,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,21,UPI,No,1,No,Not Applicable
+TC10027,Bihar,East,Value 799,Quarterly,799,266.33,1.5,24,UPI,Yes,2,No,Not Applicable
+TC10028,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,57,Auto-Pay,Yes,0,No,Not Applicable
+TC10029,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,21,Retail Recharge,Yes,0,Yes,Poor Customer Service
+TC10030,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,23,Retail Recharge,No,2,No,Not Applicable
+TC10031,Uttar Pradesh,Central,Unlimited 999,Quarterly,999,333.0,2.0,10,Credit/Debit Card,No,0,No,Not Applicable
+TC10032,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,11,Credit/Debit Card,No,1,No,Not Applicable
+TC10033,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,16,UPI,No,0,No,Not Applicable
+TC10034,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,57,Credit/Debit Card,No,0,No,Not Applicable
+TC10035,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,57,UPI,Yes,1,Yes,Network Issues
+TC10036,Jharkhand,East,Annual Plus 2999,Yearly,2999,249.92,2.0,10,UPI,No,0,Yes,Network Issues
+TC10037,Telangana,South,Value 799,Quarterly,799,266.33,1.5,34,Retail Recharge,No,0,Yes,Network Issues
+TC10038,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,53,UPI,No,2,No,Not Applicable
+TC10039,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,28,Auto-Pay,No,0,No,Not Applicable
+TC10040,Assam,East,Annual Saver 1799,Yearly,1799,149.92,1.5,7,Retail Recharge,Yes,2,No,Not Applicable
+TC10041,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,30,Auto-Pay,No,1,No,Not Applicable
+TC10042,Madhya Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,36,Retail Recharge,No,0,No,Not Applicable
+TC10043,Tamil Nadu,South,Value 799,Quarterly,799,266.33,1.5,42,Retail Recharge,No,1,No,Not Applicable
+TC10044,Haryana,North,Premium 499,Monthly,499,499.0,3.0,9,Retail Recharge,No,0,No,Not Applicable
+TC10045,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,49,UPI,Yes,3,No,Not Applicable
+TC10046,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,55,Retail Recharge,Yes,0,No,Not Applicable
+TC10047,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,4,Retail Recharge,No,0,Yes,Better Offer
+TC10048,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,60,UPI,Yes,0,No,Not Applicable
+TC10049,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,55,UPI,Yes,0,Yes,Network Issues
+TC10050,Uttar Pradesh,Central,Unlimited 999,Quarterly,999,333.0,2.0,9,UPI,No,0,No,Not Applicable
+TC10051,Punjab,North,Premium 499,Monthly,499,499.0,3.0,17,Retail Recharge,No,2,No,Not Applicable
+TC10052,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,42,UPI,No,1,No,Not Applicable
+TC10053,Delhi,North,Annual Saver 1799,Yearly,1799,149.92,1.5,3,Retail Recharge,No,0,No,Not Applicable
+TC10054,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,30,Retail Recharge,No,0,No,Not Applicable
+TC10055,Assam,East,Smart 199,Monthly,199,199.0,1.5,29,UPI,No,1,No,Not Applicable
+TC10056,Haryana,North,Unlimited 999,Quarterly,999,333.0,2.0,44,UPI,Yes,2,Yes,Network Issues
+TC10057,Haryana,North,Annual Plus 2999,Yearly,2999,249.92,2.0,14,Credit/Debit Card,No,0,No,Not Applicable
+TC10058,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,57,Auto-Pay,No,0,No,Not Applicable
+TC10059,Bihar,East,Smart 199,Monthly,199,199.0,1.5,1,UPI,No,2,No,Not Applicable
+TC10060,Jharkhand,East,Annual Plus 2999,Yearly,2999,249.92,2.0,55,UPI,No,0,No,Not Applicable
+TC10061,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,42,Credit/Debit Card,No,0,No,Not Applicable
+TC10062,Telangana,South,Smart 199,Monthly,199,199.0,1.5,58,Retail Recharge,Yes,1,No,Not Applicable
+TC10063,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,7,UPI,No,1,No,Not Applicable
+TC10064,Haryana,North,Smart 199,Monthly,199,199.0,1.5,53,UPI,No,1,No,Not Applicable
+TC10065,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,59,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10066,Goa,West,Unlimited 999,Quarterly,999,333.0,2.0,32,UPI,No,1,No,Not Applicable
+TC10067,Tamil Nadu,South,Premium 499,Monthly,499,499.0,3.0,49,Auto-Pay,No,1,No,Not Applicable
+TC10068,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,11,Retail Recharge,No,1,No,Not Applicable
+TC10069,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,9,Retail Recharge,No,2,No,Not Applicable
+TC10070,Kerala,South,Unlimited 999,Quarterly,999,333.0,2.0,15,UPI,No,1,No,Not Applicable
+TC10071,Telangana,South,Unlimited 299,Monthly,299,299.0,2.0,59,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10072,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,24,Retail Recharge,No,0,No,Not Applicable
+TC10073,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,43,Retail Recharge,No,0,Yes,Moved to Another Provider
+TC10074,Delhi,North,Value 799,Quarterly,799,266.33,1.5,55,UPI,Yes,1,No,Not Applicable
+TC10075,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,2,UPI,No,1,No,Not Applicable
+TC10076,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,49,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10077,Rajasthan,North,Value 799,Quarterly,799,266.33,1.5,42,Auto-Pay,Yes,0,No,Not Applicable
+TC10078,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,58,Auto-Pay,No,0,No,Not Applicable
+TC10079,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,6,UPI,Yes,1,No,Not Applicable
+TC10080,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,24,UPI,No,1,No,Not Applicable
+TC10081,Delhi,North,Unlimited 999,Quarterly,999,333.0,2.0,36,UPI,No,1,No,Not Applicable
+TC10082,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,12,Credit/Debit Card,No,0,No,Not Applicable
+TC10083,West Bengal,East,Annual Saver 1799,Yearly,1799,149.92,1.5,26,Credit/Debit Card,No,0,No,Not Applicable
+TC10084,Uttar Pradesh,North,Premium 499,Monthly,499,499.0,3.0,52,UPI,No,0,No,Not Applicable
+TC10085,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,53,Auto-Pay,Yes,0,Yes,High Price
+TC10086,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,15,UPI,No,1,No,Not Applicable
+TC10087,Kerala,South,Annual Max 3999,Yearly,3999,333.25,3.0,46,Retail Recharge,No,0,No,Not Applicable
+TC10088,Haryana,North,Premium 499,Monthly,499,499.0,3.0,28,Auto-Pay,No,0,Yes,Network Issues
+TC10089,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,28,UPI,Yes,1,No,Not Applicable
+TC10090,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,12,UPI,Yes,0,No,Not Applicable
+TC10091,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,42,UPI,No,0,No,Not Applicable
+TC10092,Haryana,North,Smart 199,Monthly,199,199.0,1.5,28,UPI,No,2,Yes,High Price
+TC10093,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,60,Retail Recharge,No,1,No,Not Applicable
+TC10094,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,57,UPI,No,1,No,Not Applicable
+TC10095,Kerala,South,Annual Saver 1799,Yearly,1799,149.92,1.5,59,UPI,No,0,No,Not Applicable
+TC10096,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,1,UPI,No,1,No,Not Applicable
+TC10097,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,26,Auto-Pay,Yes,2,No,Not Applicable
+TC10098,Gujarat,West,Premium 499,Monthly,499,499.0,3.0,55,UPI,Yes,0,No,Not Applicable
+TC10099,Goa,West,Premium 499,Monthly,499,499.0,3.0,34,Auto-Pay,Yes,1,No,Not Applicable
+TC10100,Delhi,North,Annual Plus 2999,Yearly,2999,249.92,2.0,38,UPI,No,0,No,Not Applicable
+TC10101,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,47,Credit/Debit Card,No,1,No,Not Applicable
+TC10102,Uttar Pradesh,North,Unlimited 999,Quarterly,999,333.0,2.0,34,Auto-Pay,Yes,2,No,Not Applicable
+TC10103,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,49,Auto-Pay,No,2,Yes,Better Offer
+TC10104,Goa,West,Premium 499,Monthly,499,499.0,3.0,5,UPI,No,2,No,Not Applicable
+TC10105,Madhya Pradesh,West,Value 799,Quarterly,799,266.33,1.5,10,Auto-Pay,No,1,No,Not Applicable
+TC10106,Odisha,East,Smart 199,Monthly,199,199.0,1.5,4,Auto-Pay,No,0,Yes,Better Offer
+TC10107,Andhra Pradesh,South,Annual Saver 1799,Yearly,1799,149.92,1.5,29,Credit/Debit Card,No,1,No,Not Applicable
+TC10108,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,35,UPI,No,1,No,Not Applicable
+TC10109,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,42,UPI,No,0,No,Not Applicable
+TC10110,Tamil Nadu,South,Premium 499,Monthly,499,499.0,3.0,28,Credit/Debit Card,No,1,No,Not Applicable
+TC10111,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,0,No,Not Applicable
+TC10112,Uttar Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,41,Auto-Pay,No,1,No,Not Applicable
+TC10113,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,29,Retail Recharge,No,1,No,Not Applicable
+TC10114,Bihar,East,Smart 199,Monthly,199,199.0,1.5,6,Credit/Debit Card,No,1,Yes,Better Offer
+TC10115,Bihar,East,Smart 199,Monthly,199,199.0,1.5,18,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10116,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,31,UPI,Yes,0,Yes,Network Issues
+TC10117,Rajasthan,North,Value 799,Quarterly,799,266.33,1.5,37,UPI,No,1,No,Not Applicable
+TC10118,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,45,UPI,No,1,No,Not Applicable
+TC10119,Delhi,North,Premium 499,Monthly,499,499.0,3.0,9,Auto-Pay,Yes,2,Yes,Moved to Another Provider
+TC10120,Jharkhand,East,Premium 499,Monthly,499,499.0,3.0,44,UPI,Yes,0,No,Not Applicable
+TC10121,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,16,Retail Recharge,No,1,No,Not Applicable
+TC10122,Telangana,South,Annual Max 3999,Yearly,3999,333.25,3.0,49,Auto-Pay,No,2,No,Not Applicable
+TC10123,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,38,Auto-Pay,No,1,No,Not Applicable
+TC10124,Gujarat,West,Value 799,Quarterly,799,266.33,1.5,10,Credit/Debit Card,No,1,Yes,High Price
+TC10125,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,56,Auto-Pay,Yes,2,No,Not Applicable
+TC10126,Haryana,North,Smart 199,Monthly,199,199.0,1.5,5,Auto-Pay,No,1,No,Not Applicable
+TC10127,Rajasthan,North,Premium 499,Monthly,499,499.0,3.0,1,Retail Recharge,No,1,Yes,High Price
+TC10128,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,31,Auto-Pay,No,1,Yes,Better Offer
+TC10129,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,59,UPI,No,1,No,Not Applicable
+TC10130,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,46,Retail Recharge,Yes,5,No,Not Applicable
+TC10131,Maharashtra,West,Value 799,Quarterly,799,266.33,1.5,22,Credit/Debit Card,No,1,No,Not Applicable
+TC10132,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,42,UPI,No,1,No,Not Applicable
+TC10133,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,43,Retail Recharge,No,1,No,Not Applicable
+TC10134,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,20,Retail Recharge,No,1,No,Not Applicable
+TC10135,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,60,UPI,Yes,1,No,Not Applicable
+TC10136,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,38,Retail Recharge,No,1,Yes,Network Issues
+TC10137,Haryana,North,Smart 199,Monthly,199,199.0,1.5,37,Retail Recharge,No,4,No,Not Applicable
+TC10138,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,25,UPI,No,0,No,Not Applicable
+TC10139,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,30,UPI,No,0,No,Not Applicable
+TC10140,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,39,UPI,No,0,No,Not Applicable
+TC10141,Goa,West,Smart 199,Monthly,199,199.0,1.5,19,UPI,No,1,No,Not Applicable
+TC10142,Jharkhand,East,Annual Plus 2999,Yearly,2999,249.92,2.0,48,Retail Recharge,No,2,No,Not Applicable
+TC10143,Assam,East,Premium 499,Monthly,499,499.0,3.0,3,Credit/Debit Card,No,0,No,Not Applicable
+TC10144,Uttar Pradesh,North,Premium 499,Monthly,499,499.0,3.0,36,Auto-Pay,Yes,0,No,Not Applicable
+TC10145,Haryana,North,Annual Saver 1799,Yearly,1799,149.92,1.5,59,Credit/Debit Card,No,0,No,Not Applicable
+TC10146,Chhattisgarh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,49,Retail Recharge,No,1,No,Not Applicable
+TC10147,Gujarat,West,Value 799,Quarterly,799,266.33,1.5,42,Retail Recharge,No,1,No,Not Applicable
+TC10148,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,25,UPI,No,2,No,Not Applicable
+TC10149,Assam,East,Annual Saver 1799,Yearly,1799,149.92,1.5,22,UPI,No,4,No,Not Applicable
+TC10150,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,4,UPI,No,1,Yes,Better Offer
+TC10151,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,8,Auto-Pay,No,1,Yes,Network Issues
+TC10152,Delhi,North,Unlimited 999,Quarterly,999,333.0,2.0,36,UPI,No,3,Yes,High Price
+TC10153,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,23,Retail Recharge,Yes,0,Yes,Network Issues
+TC10154,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,25,UPI,Yes,0,Yes,High Price
+TC10155,Haryana,North,Premium 499,Monthly,499,499.0,3.0,40,UPI,Yes,0,No,Not Applicable
+TC10156,Karnataka,South,Unlimited 999,Quarterly,999,333.0,2.0,1,Auto-Pay,Yes,1,Yes,Network Issues
+TC10157,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,2,UPI,No,2,Yes,High Price
+TC10158,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,56,Credit/Debit Card,No,3,No,Not Applicable
+TC10159,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,23,UPI,Yes,2,No,Not Applicable
+TC10160,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,30,Retail Recharge,Yes,0,No,Not Applicable
+TC10161,Haryana,North,Unlimited 999,Quarterly,999,333.0,2.0,24,Auto-Pay,Yes,1,No,Not Applicable
+TC10162,Gujarat,West,Unlimited 999,Quarterly,999,333.0,2.0,18,UPI,Yes,0,No,Not Applicable
+TC10163,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,10,Retail Recharge,No,0,No,Not Applicable
+TC10164,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,40,Credit/Debit Card,No,0,Yes,Network Issues
+TC10165,Odisha,East,Premium 499,Monthly,499,499.0,3.0,54,UPI,Yes,2,No,Not Applicable
+TC10166,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,7,Credit/Debit Card,No,0,Yes,High Price
+TC10167,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,53,UPI,Yes,0,No,Not Applicable
+TC10168,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,16,UPI,No,1,No,Not Applicable
+TC10169,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,7,Retail Recharge,No,1,No,Not Applicable
+TC10170,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,21,UPI,No,1,No,Not Applicable
+TC10171,Kerala,South,Annual Plus 2999,Yearly,2999,249.92,2.0,58,Auto-Pay,No,0,No,Not Applicable
+TC10172,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,19,Auto-Pay,No,1,No,Not Applicable
+TC10173,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,42,UPI,No,1,No,Not Applicable
+TC10174,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,3,Credit/Debit Card,No,1,Yes,High Price
+TC10175,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,51,Credit/Debit Card,No,0,No,Not Applicable
+TC10176,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,36,UPI,No,1,No,Not Applicable
+TC10177,Bihar,East,Annual Plus 2999,Yearly,2999,249.92,2.0,14,Credit/Debit Card,Yes,3,No,Not Applicable
+TC10178,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,16,UPI,No,2,No,Not Applicable
+TC10179,Jharkhand,East,Premium 499,Monthly,499,499.0,3.0,24,Credit/Debit Card,No,0,No,Not Applicable
+TC10180,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,50,UPI,No,0,No,Not Applicable
+TC10181,Punjab,North,Smart 199,Monthly,199,199.0,1.5,49,Auto-Pay,No,1,No,Not Applicable
+TC10182,Karnataka,South,Annual Max 3999,Yearly,3999,333.25,3.0,19,UPI,No,1,No,Not Applicable
+TC10183,West Bengal,East,Annual Saver 1799,Yearly,1799,149.92,1.5,20,UPI,No,0,No,Not Applicable
+TC10184,Uttar Pradesh,North,Annual Saver 1799,Yearly,1799,149.92,1.5,41,UPI,No,0,No,Not Applicable
+TC10185,Delhi,North,Annual Plus 2999,Yearly,2999,249.92,2.0,42,UPI,No,0,No,Not Applicable
+TC10186,West Bengal,East,Annual Plus 2999,Yearly,2999,249.92,2.0,54,UPI,No,0,No,Not Applicable
+TC10187,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,6,UPI,No,0,Yes,Better Offer
+TC10188,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,23,Credit/Debit Card,No,1,No,Not Applicable
+TC10189,Delhi,North,Value 799,Quarterly,799,266.33,1.5,1,UPI,Yes,0,Yes,High Price
+TC10190,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,42,Auto-Pay,No,0,Yes,Network Issues
+TC10191,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,32,Retail Recharge,No,2,Yes,High Price
+TC10192,Gujarat,West,Premium 499,Monthly,499,499.0,3.0,47,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10193,Madhya Pradesh,Central,Annual Max 3999,Yearly,3999,333.25,3.0,40,Auto-Pay,No,0,No,Not Applicable
+TC10194,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,7,Credit/Debit Card,No,0,Yes,Network Issues
+TC10195,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,4,UPI,No,0,Yes,Poor Customer Service
+TC10196,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,52,Retail Recharge,Yes,0,Yes,Better Offer
+TC10197,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,58,Credit/Debit Card,No,2,Yes,Network Issues
+TC10198,Assam,East,Annual Max 3999,Yearly,3999,333.25,3.0,57,Retail Recharge,No,0,No,Not Applicable
+TC10199,Assam,East,Unlimited 999,Quarterly,999,333.0,2.0,26,UPI,No,0,No,Not Applicable
+TC10200,Telangana,South,Smart 199,Monthly,199,199.0,1.5,13,Retail Recharge,No,0,No,Not Applicable
+TC10201,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,8,Auto-Pay,No,0,No,Not Applicable
+TC10202,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,58,UPI,No,2,No,Not Applicable
+TC10203,Madhya Pradesh,West,Value 799,Quarterly,799,266.33,1.5,28,Auto-Pay,No,0,No,Not Applicable
+TC10204,Maharashtra,West,Unlimited 999,Quarterly,999,333.0,2.0,18,Auto-Pay,No,0,Yes,Network Issues
+TC10205,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,24,UPI,No,0,No,Not Applicable
+TC10206,Maharashtra,West,Premium 499,Monthly,499,499.0,3.0,25,UPI,No,1,No,Not Applicable
+TC10207,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,6,Credit/Debit Card,No,0,Yes,Network Issues
+TC10208,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,29,Retail Recharge,No,0,No,Not Applicable
+TC10209,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,37,UPI,No,0,No,Not Applicable
+TC10210,West Bengal,East,Unlimited 999,Quarterly,999,333.0,2.0,13,Auto-Pay,No,1,Yes,Network Issues
+TC10211,Kerala,South,Annual Max 3999,Yearly,3999,333.25,3.0,60,Credit/Debit Card,No,1,No,Not Applicable
+TC10212,Kerala,South,Smart 199,Monthly,199,199.0,1.5,32,Auto-Pay,No,1,No,Not Applicable
+TC10213,Assam,East,Annual Plus 2999,Yearly,2999,249.92,2.0,15,UPI,No,0,No,Not Applicable
+TC10214,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,22,Auto-Pay,No,0,No,Not Applicable
+TC10215,West Bengal,East,Value 799,Quarterly,799,266.33,1.5,57,Credit/Debit Card,No,0,No,Not Applicable
+TC10216,Telangana,South,Smart 199,Monthly,199,199.0,1.5,25,Retail Recharge,No,0,No,Not Applicable
+TC10217,Odisha,East,Premium 499,Monthly,499,499.0,3.0,15,Credit/Debit Card,No,1,No,Not Applicable
+TC10218,Andhra Pradesh,South,Annual Saver 1799,Yearly,1799,149.92,1.5,10,UPI,No,0,No,Not Applicable
+TC10219,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,16,Retail Recharge,Yes,0,Yes,Network Issues
+TC10220,Goa,West,Smart 199,Monthly,199,199.0,1.5,25,UPI,No,0,No,Not Applicable
+TC10221,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,32,UPI,No,1,No,Not Applicable
+TC10222,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,2,Yes,Network Issues
+TC10223,Telangana,South,Annual Saver 1799,Yearly,1799,149.92,1.5,42,Credit/Debit Card,No,1,No,Not Applicable
+TC10224,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,1,Auto-Pay,No,1,No,Not Applicable
+TC10225,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,41,Auto-Pay,No,2,No,Not Applicable
+TC10226,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,2,Retail Recharge,No,1,No,Not Applicable
+TC10227,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,54,Credit/Debit Card,No,1,No,Not Applicable
+TC10228,Madhya Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,9,Auto-Pay,Yes,1,No,Not Applicable
+TC10229,Kerala,South,Annual Saver 1799,Yearly,1799,149.92,1.5,34,Retail Recharge,No,1,No,Not Applicable
+TC10230,Bihar,East,Value 799,Quarterly,799,266.33,1.5,34,Auto-Pay,No,1,No,Not Applicable
+TC10231,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,25,Retail Recharge,No,1,No,Not Applicable
+TC10232,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,13,UPI,No,1,Yes,Poor Customer Service
+TC10233,Karnataka,South,Unlimited 999,Quarterly,999,333.0,2.0,52,Auto-Pay,No,0,No,Not Applicable
+TC10234,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,36,UPI,No,1,No,Not Applicable
+TC10235,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,18,Retail Recharge,No,2,No,Not Applicable
+TC10236,Goa,West,Value 799,Quarterly,799,266.33,1.5,52,UPI,Yes,1,No,Not Applicable
+TC10237,Telangana,South,Smart 199,Monthly,199,199.0,1.5,40,Retail Recharge,Yes,0,No,Not Applicable
+TC10238,Madhya Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,24,UPI,Yes,0,Yes,Network Issues
+TC10239,Jharkhand,East,Unlimited 999,Quarterly,999,333.0,2.0,28,UPI,No,0,No,Not Applicable
+TC10240,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,10,Credit/Debit Card,No,0,No,Not Applicable
+TC10241,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,33,Auto-Pay,No,0,No,Not Applicable
+TC10242,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,32,Retail Recharge,No,2,No,Not Applicable
+TC10243,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,34,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10244,Gujarat,West,Annual Plus 2999,Yearly,2999,249.92,2.0,41,UPI,No,1,No,Not Applicable
+TC10245,Odisha,East,Smart 199,Monthly,199,199.0,1.5,53,Retail Recharge,Yes,1,No,Not Applicable
+TC10246,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,49,Credit/Debit Card,No,2,No,Not Applicable
+TC10247,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,56,UPI,No,0,No,Not Applicable
+TC10248,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,0,No,Not Applicable
+TC10249,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,11,Retail Recharge,No,0,No,Not Applicable
+TC10250,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,42,Credit/Debit Card,No,2,No,Not Applicable
+TC10251,Madhya Pradesh,West,Value 799,Quarterly,799,266.33,1.5,21,Auto-Pay,No,1,No,Not Applicable
+TC10252,Telangana,South,Smart 199,Monthly,199,199.0,1.5,2,Auto-Pay,No,0,No,Not Applicable
+TC10253,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,39,UPI,Yes,1,Yes,High Price
+TC10254,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,57,Auto-Pay,Yes,0,No,Not Applicable
+TC10255,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,25,UPI,No,0,Yes,Better Offer
+TC10256,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,15,Auto-Pay,No,1,No,Not Applicable
+TC10257,Maharashtra,West,Annual Plus 2999,Yearly,2999,249.92,2.0,19,Retail Recharge,Yes,0,Yes,Better Offer
+TC10258,Gujarat,West,Annual Plus 2999,Yearly,2999,249.92,2.0,31,Retail Recharge,No,1,No,Not Applicable
+TC10259,Delhi,North,Premium 499,Monthly,499,499.0,3.0,14,UPI,Yes,0,Yes,Poor Customer Service
+TC10260,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,35,UPI,No,0,No,Not Applicable
+TC10261,Haryana,North,Smart 199,Monthly,199,199.0,1.5,36,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10262,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,35,UPI,No,0,No,Not Applicable
+TC10263,West Bengal,East,Value 799,Quarterly,799,266.33,1.5,17,Credit/Debit Card,No,1,Yes,Network Issues
+TC10264,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,16,UPI,Yes,1,Yes,Moved to Another Provider
+TC10265,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,15,UPI,No,0,No,Not Applicable
+TC10266,Kerala,South,Smart 199,Monthly,199,199.0,1.5,55,Retail Recharge,No,2,No,Not Applicable
+TC10267,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,11,Retail Recharge,Yes,1,Yes,Moved to Another Provider
+TC10268,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,7,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10269,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,47,UPI,Yes,1,No,Not Applicable
+TC10270,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,30,UPI,No,0,No,Not Applicable
+TC10271,Bihar,East,Annual Plus 2999,Yearly,2999,249.92,2.0,27,UPI,Yes,0,Yes,Better Offer
+TC10272,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,7,UPI,No,3,Yes,Moved to Another Provider
+TC10273,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,17,Auto-Pay,No,1,No,Not Applicable
+TC10274,Punjab,North,Annual Plus 2999,Yearly,2999,249.92,2.0,10,Credit/Debit Card,No,1,No,Not Applicable
+TC10275,Jharkhand,East,Premium 499,Monthly,499,499.0,3.0,45,UPI,No,2,No,Not Applicable
+TC10276,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,21,Credit/Debit Card,Yes,0,Yes,Network Issues
+TC10277,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,30,Retail Recharge,No,1,No,Not Applicable
+TC10278,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,39,Retail Recharge,Yes,0,No,Not Applicable
+TC10279,Punjab,North,Smart 199,Monthly,199,199.0,1.5,53,UPI,No,2,No,Not Applicable
+TC10280,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,47,Retail Recharge,No,0,No,Not Applicable
+TC10281,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,50,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10282,Delhi,North,Annual Saver 1799,Yearly,1799,149.92,1.5,13,Auto-Pay,No,0,No,Not Applicable
+TC10283,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,31,UPI,No,0,No,Not Applicable
+TC10284,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,40,Credit/Debit Card,No,0,No,Not Applicable
+TC10285,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,2,Retail Recharge,No,2,Yes,Moved to Another Provider
+TC10286,Uttar Pradesh,North,Annual Plus 2999,Yearly,2999,249.92,2.0,39,Retail Recharge,No,0,No,Not Applicable
+TC10287,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,35,UPI,No,0,No,Not Applicable
+TC10288,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,15,UPI,No,2,No,Not Applicable
+TC10289,Karnataka,South,Annual Max 3999,Yearly,3999,333.25,3.0,45,UPI,No,0,No,Not Applicable
+TC10290,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,35,UPI,No,1,No,Not Applicable
+TC10291,Chhattisgarh,Central,Premium 499,Monthly,499,499.0,3.0,19,UPI,Yes,0,No,Not Applicable
+TC10292,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,16,Auto-Pay,No,0,No,Not Applicable
+TC10293,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,60,Retail Recharge,No,1,No,Not Applicable
+TC10294,Punjab,North,Premium 499,Monthly,499,499.0,3.0,33,Auto-Pay,No,0,No,Not Applicable
+TC10295,Telangana,South,Value 799,Quarterly,799,266.33,1.5,25,UPI,No,0,No,Not Applicable
+TC10296,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,26,Auto-Pay,Yes,0,No,Not Applicable
+TC10297,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,57,UPI,No,2,Yes,Network Issues
+TC10298,Tamil Nadu,South,Premium 499,Monthly,499,499.0,3.0,10,Retail Recharge,No,0,No,Not Applicable
+TC10299,Punjab,North,Premium 499,Monthly,499,499.0,3.0,32,UPI,No,0,No,Not Applicable
+TC10300,Uttar Pradesh,North,Annual Max 3999,Yearly,3999,333.25,3.0,49,Auto-Pay,No,0,No,Not Applicable
+TC10301,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,36,UPI,No,1,No,Not Applicable
+TC10302,Assam,East,Value 799,Quarterly,799,266.33,1.5,52,UPI,Yes,0,No,Not Applicable
+TC10303,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,4,UPI,No,0,Yes,Moved to Another Provider
+TC10304,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,47,Retail Recharge,No,0,No,Not Applicable
+TC10305,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,35,Credit/Debit Card,Yes,1,Yes,Better Offer
+TC10306,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,3,UPI,No,0,No,Not Applicable
+TC10307,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,7,UPI,No,0,No,Not Applicable
+TC10308,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,57,UPI,No,1,No,Not Applicable
+TC10309,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,22,Retail Recharge,No,1,No,Not Applicable
+TC10310,Telangana,South,Premium 499,Monthly,499,499.0,3.0,45,UPI,Yes,0,No,Not Applicable
+TC10311,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,39,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10312,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,53,Credit/Debit Card,No,1,No,Not Applicable
+TC10313,Kerala,South,Smart 199,Monthly,199,199.0,1.5,46,UPI,No,0,No,Not Applicable
+TC10314,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,52,Auto-Pay,No,2,No,Not Applicable
+TC10315,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,5,Credit/Debit Card,No,0,No,Not Applicable
+TC10316,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,16,Credit/Debit Card,No,1,No,Not Applicable
+TC10317,Telangana,South,Annual Saver 1799,Yearly,1799,149.92,1.5,45,UPI,No,2,No,Not Applicable
+TC10318,Jharkhand,East,Unlimited 999,Quarterly,999,333.0,2.0,22,UPI,No,0,No,Not Applicable
+TC10319,Punjab,North,Premium 499,Monthly,499,499.0,3.0,35,Retail Recharge,No,1,Yes,Poor Customer Service
+TC10320,Odisha,East,Value 799,Quarterly,799,266.33,1.5,7,UPI,No,2,No,Not Applicable
+TC10321,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,7,UPI,Yes,0,Yes,Better Offer
+TC10322,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,47,UPI,No,0,No,Not Applicable
+TC10323,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,26,UPI,No,1,No,Not Applicable
+TC10324,West Bengal,East,Annual Saver 1799,Yearly,1799,149.92,1.5,42,Retail Recharge,No,0,No,Not Applicable
+TC10325,Madhya Pradesh,West,Value 799,Quarterly,799,266.33,1.5,6,UPI,Yes,1,No,Not Applicable
+TC10326,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,9,UPI,Yes,0,No,Not Applicable
+TC10327,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,15,Retail Recharge,No,0,No,Not Applicable
+TC10328,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,53,UPI,No,1,No,Not Applicable
+TC10329,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,23,Credit/Debit Card,No,2,No,Not Applicable
+TC10330,Telangana,South,Unlimited 299,Monthly,299,299.0,2.0,12,Auto-Pay,No,0,No,Not Applicable
+TC10331,Madhya Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,38,UPI,Yes,0,No,Not Applicable
+TC10332,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,56,Retail Recharge,No,1,No,Not Applicable
+TC10333,Telangana,South,Unlimited 299,Monthly,299,299.0,2.0,18,UPI,No,1,No,Not Applicable
+TC10334,Punjab,North,Smart 199,Monthly,199,199.0,1.5,32,Retail Recharge,No,2,No,Not Applicable
+TC10335,Rajasthan,North,Annual Saver 1799,Yearly,1799,149.92,1.5,4,UPI,No,0,Yes,Network Issues
+TC10336,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,5,Retail Recharge,No,0,No,Not Applicable
+TC10337,Odisha,East,Smart 199,Monthly,199,199.0,1.5,29,Retail Recharge,No,1,No,Not Applicable
+TC10338,Delhi,North,Value 799,Quarterly,799,266.33,1.5,7,Retail Recharge,No,1,No,Not Applicable
+TC10339,Delhi,North,Value 799,Quarterly,799,266.33,1.5,31,Retail Recharge,No,0,No,Not Applicable
+TC10340,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,51,Retail Recharge,No,0,No,Not Applicable
+TC10341,Jharkhand,East,Premium 499,Monthly,499,499.0,3.0,31,Retail Recharge,No,0,No,Not Applicable
+TC10342,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,9,Credit/Debit Card,No,1,No,Not Applicable
+TC10343,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,56,UPI,Yes,1,Yes,Network Issues
+TC10344,Delhi,North,Premium 499,Monthly,499,499.0,3.0,11,UPI,No,1,No,Not Applicable
+TC10345,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,29,Auto-Pay,No,0,Yes,High Price
+TC10346,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,29,Auto-Pay,No,0,No,Not Applicable
+TC10347,Delhi,North,Value 799,Quarterly,799,266.33,1.5,55,Credit/Debit Card,No,0,Yes,Network Issues
+TC10348,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,34,UPI,No,3,No,Not Applicable
+TC10349,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,34,Retail Recharge,No,1,No,Not Applicable
+TC10350,Telangana,South,Smart 199,Monthly,199,199.0,1.5,30,Auto-Pay,No,0,No,Not Applicable
+TC10351,Bihar,East,Smart 199,Monthly,199,199.0,1.5,2,Credit/Debit Card,No,0,No,Not Applicable
+TC10352,Delhi,North,Annual Saver 1799,Yearly,1799,149.92,1.5,42,Retail Recharge,No,0,No,Not Applicable
+TC10353,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,18,Retail Recharge,No,0,No,Not Applicable
+TC10354,Tamil Nadu,South,Value 799,Quarterly,799,266.33,1.5,9,Credit/Debit Card,Yes,1,Yes,High Price
+TC10355,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,14,UPI,No,2,No,Not Applicable
+TC10356,Delhi,North,Annual Saver 1799,Yearly,1799,149.92,1.5,38,Credit/Debit Card,No,0,No,Not Applicable
+TC10357,Uttar Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,54,Credit/Debit Card,No,0,No,Not Applicable
+TC10358,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,9,UPI,Yes,0,No,Not Applicable
+TC10359,Punjab,North,Smart 199,Monthly,199,199.0,1.5,27,UPI,Yes,0,Yes,Network Issues
+TC10360,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,15,Auto-Pay,No,1,No,Not Applicable
+TC10361,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,35,UPI,Yes,1,No,Not Applicable
+TC10362,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,3,No,Not Applicable
+TC10363,Madhya Pradesh,Central,Annual Max 3999,Yearly,3999,333.25,3.0,44,UPI,No,0,No,Not Applicable
+TC10364,Punjab,North,Value 799,Quarterly,799,266.33,1.5,49,Credit/Debit Card,No,0,No,Not Applicable
+TC10365,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,28,UPI,No,2,No,Not Applicable
+TC10366,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,57,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10367,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,1,Auto-Pay,No,0,No,Not Applicable
+TC10368,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,56,UPI,No,0,No,Not Applicable
+TC10369,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,54,UPI,No,2,Yes,Network Issues
+TC10370,Haryana,North,Smart 199,Monthly,199,199.0,1.5,26,Retail Recharge,No,0,No,Not Applicable
+TC10371,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,43,Credit/Debit Card,No,0,Yes,Network Issues
+TC10372,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,4,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10373,Goa,West,Annual Plus 2999,Yearly,2999,249.92,2.0,13,UPI,No,0,No,Not Applicable
+TC10374,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,6,Retail Recharge,No,0,No,Not Applicable
+TC10375,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,48,Retail Recharge,No,1,No,Not Applicable
+TC10376,Maharashtra,West,Value 799,Quarterly,799,266.33,1.5,15,UPI,No,2,No,Not Applicable
+TC10377,Punjab,North,Smart 199,Monthly,199,199.0,1.5,56,Retail Recharge,No,1,No,Not Applicable
+TC10378,Odisha,East,Value 799,Quarterly,799,266.33,1.5,16,Credit/Debit Card,No,0,No,Not Applicable
+TC10379,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,22,Credit/Debit Card,No,0,No,Not Applicable
+TC10380,Madhya Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,57,UPI,No,1,No,Not Applicable
+TC10381,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,38,UPI,No,0,No,Not Applicable
+TC10382,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,35,Retail Recharge,No,5,Yes,High Price
+TC10383,Delhi,North,Value 799,Quarterly,799,266.33,1.5,41,UPI,No,3,No,Not Applicable
+TC10384,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,52,Credit/Debit Card,No,0,No,Not Applicable
+TC10385,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,58,Retail Recharge,No,0,No,Not Applicable
+TC10386,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,51,UPI,Yes,1,Yes,High Price
+TC10387,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,19,Auto-Pay,No,2,Yes,High Price
+TC10388,Delhi,North,Smart 199,Monthly,199,199.0,1.5,46,Retail Recharge,No,0,No,Not Applicable
+TC10389,Punjab,North,Premium 499,Monthly,499,499.0,3.0,21,Auto-Pay,No,0,No,Not Applicable
+TC10390,Madhya Pradesh,West,Annual Plus 2999,Yearly,2999,249.92,2.0,32,Retail Recharge,No,2,No,Not Applicable
+TC10391,Goa,West,Value 799,Quarterly,799,266.33,1.5,31,UPI,No,1,No,Not Applicable
+TC10392,Goa,West,Smart 199,Monthly,199,199.0,1.5,38,UPI,No,1,No,Not Applicable
+TC10393,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,56,Retail Recharge,No,0,No,Not Applicable
+TC10394,Delhi,North,Annual Plus 2999,Yearly,2999,249.92,2.0,14,Retail Recharge,No,1,No,Not Applicable
+TC10395,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,50,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10396,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,44,UPI,No,1,No,Not Applicable
+TC10397,Maharashtra,West,Premium 499,Monthly,499,499.0,3.0,20,UPI,No,0,No,Not Applicable
+TC10398,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,30,Auto-Pay,No,0,No,Not Applicable
+TC10399,Goa,West,Annual Saver 1799,Yearly,1799,149.92,1.5,23,Auto-Pay,No,1,No,Not Applicable
+TC10400,Jharkhand,East,Value 799,Quarterly,799,266.33,1.5,38,UPI,No,0,No,Not Applicable
+TC10401,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,30,Credit/Debit Card,No,1,No,Not Applicable
+TC10402,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,25,Retail Recharge,No,1,No,Not Applicable
+TC10403,Haryana,North,Value 799,Quarterly,799,266.33,1.5,18,Retail Recharge,Yes,2,Yes,Network Issues
+TC10404,Karnataka,South,Unlimited 999,Quarterly,999,333.0,2.0,32,UPI,No,0,No,Not Applicable
+TC10405,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,8,Auto-Pay,No,1,No,Not Applicable
+TC10406,Bihar,East,Premium 499,Monthly,499,499.0,3.0,56,UPI,No,1,Yes,Network Issues
+TC10407,Uttar Pradesh,North,Annual Plus 2999,Yearly,2999,249.92,2.0,23,Retail Recharge,No,1,No,Not Applicable
+TC10408,Rajasthan,North,Unlimited 999,Quarterly,999,333.0,2.0,36,Credit/Debit Card,No,0,No,Not Applicable
+TC10409,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,28,Auto-Pay,Yes,2,Yes,Network Issues
+TC10410,Haryana,North,Smart 199,Monthly,199,199.0,1.5,40,Credit/Debit Card,No,1,Yes,Network Issues
+TC10411,Telangana,South,Annual Saver 1799,Yearly,1799,149.92,1.5,35,UPI,Yes,2,No,Not Applicable
+TC10412,Haryana,North,Annual Plus 2999,Yearly,2999,249.92,2.0,57,Retail Recharge,No,1,No,Not Applicable
+TC10413,Madhya Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,36,UPI,No,0,No,Not Applicable
+TC10414,Jharkhand,East,Unlimited 999,Quarterly,999,333.0,2.0,4,Auto-Pay,No,3,No,Not Applicable
+TC10415,Madhya Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,7,Auto-Pay,No,1,No,Not Applicable
+TC10416,Telangana,South,Smart 199,Monthly,199,199.0,1.5,28,Retail Recharge,No,0,No,Not Applicable
+TC10417,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,56,Retail Recharge,No,4,No,Not Applicable
+TC10418,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,39,Retail Recharge,No,1,No,Not Applicable
+TC10419,Telangana,South,Annual Plus 2999,Yearly,2999,249.92,2.0,16,UPI,No,2,No,Not Applicable
+TC10420,Goa,West,Smart 199,Monthly,199,199.0,1.5,45,Retail Recharge,No,0,No,Not Applicable
+TC10421,Bihar,East,Annual Saver 1799,Yearly,1799,149.92,1.5,59,Auto-Pay,Yes,0,No,Not Applicable
+TC10422,Madhya Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,11,UPI,No,1,No,Not Applicable
+TC10423,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,49,Credit/Debit Card,No,2,No,Not Applicable
+TC10424,Punjab,North,Annual Plus 2999,Yearly,2999,249.92,2.0,22,UPI,Yes,2,Yes,High Price
+TC10425,Bihar,East,Smart 199,Monthly,199,199.0,1.5,15,Credit/Debit Card,No,0,No,Not Applicable
+TC10426,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,4,UPI,No,1,No,Not Applicable
+TC10427,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,52,UPI,No,1,No,Not Applicable
+TC10428,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,16,UPI,Yes,0,No,Not Applicable
+TC10429,Telangana,South,Annual Saver 1799,Yearly,1799,149.92,1.5,49,Retail Recharge,No,1,No,Not Applicable
+TC10430,Maharashtra,West,Premium 499,Monthly,499,499.0,3.0,33,Credit/Debit Card,No,0,No,Not Applicable
+TC10431,Delhi,North,Premium 499,Monthly,499,499.0,3.0,20,UPI,Yes,1,Yes,Poor Customer Service
+TC10432,Kerala,South,Annual Max 3999,Yearly,3999,333.25,3.0,38,Retail Recharge,Yes,1,No,Not Applicable
+TC10433,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,37,UPI,No,1,Yes,Better Offer
+TC10434,West Bengal,East,Annual Plus 2999,Yearly,2999,249.92,2.0,28,Auto-Pay,No,0,Yes,Network Issues
+TC10435,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,50,Auto-Pay,Yes,1,Yes,Poor Customer Service
+TC10436,Maharashtra,West,Value 799,Quarterly,799,266.33,1.5,21,Retail Recharge,No,1,No,Not Applicable
+TC10437,Andhra Pradesh,South,Unlimited 999,Quarterly,999,333.0,2.0,34,Auto-Pay,No,0,No,Not Applicable
+TC10438,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,11,Retail Recharge,No,2,No,Not Applicable
+TC10439,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,29,UPI,No,0,No,Not Applicable
+TC10440,Haryana,North,Smart 199,Monthly,199,199.0,1.5,12,Retail Recharge,No,0,No,Not Applicable
+TC10441,Delhi,North,Value 799,Quarterly,799,266.33,1.5,26,UPI,No,0,No,Not Applicable
+TC10442,Jharkhand,East,Annual Saver 1799,Yearly,1799,149.92,1.5,28,Credit/Debit Card,No,2,No,Not Applicable
+TC10443,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,44,Credit/Debit Card,No,1,No,Not Applicable
+TC10444,Jharkhand,East,Annual Saver 1799,Yearly,1799,149.92,1.5,17,UPI,No,2,No,Not Applicable
+TC10445,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,10,UPI,No,0,No,Not Applicable
+TC10446,Telangana,South,Unlimited 999,Quarterly,999,333.0,2.0,38,Credit/Debit Card,Yes,2,Yes,Network Issues
+TC10447,Madhya Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,17,Retail Recharge,Yes,0,No,Not Applicable
+TC10448,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,19,Credit/Debit Card,No,1,No,Not Applicable
+TC10449,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,52,UPI,Yes,1,No,Not Applicable
+TC10450,Madhya Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,1,Retail Recharge,Yes,0,No,Not Applicable
+TC10451,Madhya Pradesh,West,Annual Max 3999,Yearly,3999,333.25,3.0,19,Auto-Pay,Yes,0,No,Not Applicable
+TC10452,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,52,UPI,No,0,No,Not Applicable
+TC10453,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,27,Credit/Debit Card,No,0,No,Not Applicable
+TC10454,Bihar,East,Annual Max 3999,Yearly,3999,333.25,3.0,1,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10455,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,52,Retail Recharge,No,0,No,Not Applicable
+TC10456,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,51,Auto-Pay,No,2,No,Not Applicable
+TC10457,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,22,Retail Recharge,No,0,No,Not Applicable
+TC10458,Telangana,South,Annual Saver 1799,Yearly,1799,149.92,1.5,40,Auto-Pay,No,1,No,Not Applicable
+TC10459,Rajasthan,North,Annual Max 3999,Yearly,3999,333.25,3.0,31,Credit/Debit Card,No,0,No,Not Applicable
+TC10460,Telangana,South,Value 799,Quarterly,799,266.33,1.5,11,Retail Recharge,Yes,0,No,Not Applicable
+TC10461,Madhya Pradesh,West,Annual Plus 2999,Yearly,2999,249.92,2.0,9,UPI,No,0,Yes,High Price
+TC10462,Chhattisgarh,Central,Unlimited 999,Quarterly,999,333.0,2.0,43,Auto-Pay,No,0,No,Not Applicable
+TC10463,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,38,Credit/Debit Card,No,2,No,Not Applicable
+TC10464,Odisha,East,Smart 199,Monthly,199,199.0,1.5,1,UPI,No,0,Yes,Network Issues
+TC10465,Telangana,South,Annual Saver 1799,Yearly,1799,149.92,1.5,36,UPI,No,0,No,Not Applicable
+TC10466,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,54,UPI,No,0,No,Not Applicable
+TC10467,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,20,UPI,No,1,No,Not Applicable
+TC10468,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,14,UPI,Yes,0,No,Not Applicable
+TC10469,Jharkhand,East,Annual Saver 1799,Yearly,1799,149.92,1.5,38,UPI,No,2,No,Not Applicable
+TC10470,Kerala,South,Annual Max 3999,Yearly,3999,333.25,3.0,1,Credit/Debit Card,Yes,0,Yes,High Price
+TC10471,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,28,UPI,Yes,2,No,Not Applicable
+TC10472,Delhi,North,Smart 199,Monthly,199,199.0,1.5,16,UPI,No,0,No,Not Applicable
+TC10473,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,26,Retail Recharge,No,2,Yes,Better Offer
+TC10474,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,20,Retail Recharge,No,0,No,Not Applicable
+TC10475,Tamil Nadu,South,Premium 499,Monthly,499,499.0,3.0,29,UPI,Yes,1,No,Not Applicable
+TC10476,Punjab,North,Annual Plus 2999,Yearly,2999,249.92,2.0,41,UPI,No,1,No,Not Applicable
+TC10477,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,15,Retail Recharge,Yes,0,No,Not Applicable
+TC10478,Gujarat,West,Annual Plus 2999,Yearly,2999,249.92,2.0,51,Auto-Pay,No,0,No,Not Applicable
+TC10479,Telangana,South,Annual Plus 2999,Yearly,2999,249.92,2.0,26,Credit/Debit Card,No,1,Yes,Poor Customer Service
+TC10480,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,44,Credit/Debit Card,No,0,No,Not Applicable
+TC10481,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,44,UPI,No,2,No,Not Applicable
+TC10482,Madhya Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,29,Credit/Debit Card,No,1,Yes,Network Issues
+TC10483,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,40,UPI,No,2,No,Not Applicable
+TC10484,Madhya Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,25,UPI,No,2,No,Not Applicable
+TC10485,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,59,Auto-Pay,No,2,No,Not Applicable
+TC10486,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,32,Retail Recharge,No,1,No,Not Applicable
+TC10487,Odisha,East,Smart 199,Monthly,199,199.0,1.5,23,UPI,No,0,No,Not Applicable
+TC10488,Rajasthan,North,Annual Max 3999,Yearly,3999,333.25,3.0,36,Auto-Pay,No,1,No,Not Applicable
+TC10489,Assam,East,Annual Plus 2999,Yearly,2999,249.92,2.0,37,Retail Recharge,Yes,0,No,Not Applicable
+TC10490,Rajasthan,North,Premium 499,Monthly,499,499.0,3.0,41,UPI,No,0,No,Not Applicable
+TC10491,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,53,Retail Recharge,No,1,No,Not Applicable
+TC10492,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,30,Retail Recharge,No,0,No,Not Applicable
+TC10493,Goa,West,Annual Saver 1799,Yearly,1799,149.92,1.5,15,UPI,Yes,0,No,Not Applicable
+TC10494,Assam,East,Smart 199,Monthly,199,199.0,1.5,16,UPI,No,1,Yes,Poor Customer Service
+TC10495,Madhya Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,36,UPI,No,0,No,Not Applicable
+TC10496,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,5,UPI,No,0,No,Not Applicable
+TC10497,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,28,Auto-Pay,No,3,No,Not Applicable
+TC10498,Assam,East,Annual Saver 1799,Yearly,1799,149.92,1.5,30,Credit/Debit Card,No,0,No,Not Applicable
+TC10499,Kerala,South,Smart 199,Monthly,199,199.0,1.5,22,Retail Recharge,Yes,1,No,Not Applicable
+TC10500,Odisha,East,Smart 199,Monthly,199,199.0,1.5,30,UPI,No,0,No,Not Applicable
+TC10501,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,39,Credit/Debit Card,No,0,No,Not Applicable
+TC10502,Haryana,North,Smart 199,Monthly,199,199.0,1.5,55,Auto-Pay,No,0,No,Not Applicable
+TC10503,Kerala,South,Value 799,Quarterly,799,266.33,1.5,19,Auto-Pay,No,0,No,Not Applicable
+TC10504,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,32,UPI,No,1,No,Not Applicable
+TC10505,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,13,UPI,No,1,No,Not Applicable
+TC10506,Andhra Pradesh,South,Annual Max 3999,Yearly,3999,333.25,3.0,17,Retail Recharge,No,0,No,Not Applicable
+TC10507,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,4,Auto-Pay,No,1,No,Not Applicable
+TC10508,Goa,West,Annual Saver 1799,Yearly,1799,149.92,1.5,2,Auto-Pay,Yes,0,No,Not Applicable
+TC10509,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,8,Credit/Debit Card,No,1,No,Not Applicable
+TC10510,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,41,Auto-Pay,No,3,No,Not Applicable
+TC10511,Maharashtra,West,Unlimited 999,Quarterly,999,333.0,2.0,58,UPI,No,3,No,Not Applicable
+TC10512,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,58,Auto-Pay,No,1,No,Not Applicable
+TC10513,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,35,Auto-Pay,No,0,No,Not Applicable
+TC10514,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,56,Auto-Pay,Yes,1,Yes,Moved to Another Provider
+TC10515,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,50,Retail Recharge,No,1,No,Not Applicable
+TC10516,Andhra Pradesh,South,Annual Saver 1799,Yearly,1799,149.92,1.5,32,UPI,No,1,No,Not Applicable
+TC10517,Odisha,East,Smart 199,Monthly,199,199.0,1.5,28,UPI,No,2,No,Not Applicable
+TC10518,Delhi,North,Value 799,Quarterly,799,266.33,1.5,36,UPI,No,5,No,Not Applicable
+TC10519,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,54,Auto-Pay,No,0,No,Not Applicable
+TC10520,Kerala,South,Value 799,Quarterly,799,266.33,1.5,41,Retail Recharge,No,3,No,Not Applicable
+TC10521,Gujarat,West,Premium 499,Monthly,499,499.0,3.0,27,Retail Recharge,No,1,No,Not Applicable
+TC10522,Tamil Nadu,South,Value 799,Quarterly,799,266.33,1.5,35,Credit/Debit Card,No,0,No,Not Applicable
+TC10523,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,23,Credit/Debit Card,No,0,No,Not Applicable
+TC10524,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,50,Retail Recharge,No,0,No,Not Applicable
+TC10525,Telangana,South,Annual Plus 2999,Yearly,2999,249.92,2.0,27,Credit/Debit Card,No,1,No,Not Applicable
+TC10526,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,20,Retail Recharge,No,0,No,Not Applicable
+TC10527,Uttar Pradesh,North,Annual Saver 1799,Yearly,1799,149.92,1.5,34,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10528,Odisha,East,Premium 499,Monthly,499,499.0,3.0,5,UPI,No,1,No,Not Applicable
+TC10529,Madhya Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,9,Credit/Debit Card,No,3,No,Not Applicable
+TC10530,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,15,UPI,No,1,No,Not Applicable
+TC10531,Andhra Pradesh,South,Unlimited 999,Quarterly,999,333.0,2.0,5,Retail Recharge,No,0,Yes,Better Offer
+TC10532,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,12,UPI,No,1,No,Not Applicable
+TC10533,Haryana,North,Smart 199,Monthly,199,199.0,1.5,44,Retail Recharge,No,0,No,Not Applicable
+TC10534,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,48,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10535,Bihar,East,Smart 199,Monthly,199,199.0,1.5,8,UPI,No,1,No,Not Applicable
+TC10536,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,41,Retail Recharge,Yes,1,No,Not Applicable
+TC10537,Chhattisgarh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,45,Auto-Pay,No,1,No,Not Applicable
+TC10538,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,8,UPI,No,2,No,Not Applicable
+TC10539,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,1,UPI,No,0,Yes,Network Issues
+TC10540,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,7,UPI,Yes,0,Yes,Poor Customer Service
+TC10541,Haryana,North,Smart 199,Monthly,199,199.0,1.5,55,UPI,Yes,1,No,Not Applicable
+TC10542,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,38,Retail Recharge,Yes,1,No,Not Applicable
+TC10543,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,23,UPI,No,0,No,Not Applicable
+TC10544,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,48,UPI,No,1,No,Not Applicable
+TC10545,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,32,Retail Recharge,No,0,No,Not Applicable
+TC10546,Kerala,South,Premium 499,Monthly,499,499.0,3.0,21,Retail Recharge,Yes,0,No,Not Applicable
+TC10547,Haryana,North,Smart 199,Monthly,199,199.0,1.5,21,UPI,No,1,No,Not Applicable
+TC10548,Kerala,South,Annual Plus 2999,Yearly,2999,249.92,2.0,9,UPI,No,2,No,Not Applicable
+TC10549,Goa,West,Annual Plus 2999,Yearly,2999,249.92,2.0,59,Credit/Debit Card,No,2,Yes,Better Offer
+TC10550,Gujarat,West,Annual Plus 2999,Yearly,2999,249.92,2.0,7,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10551,Goa,West,Unlimited 999,Quarterly,999,333.0,2.0,39,Auto-Pay,Yes,2,No,Not Applicable
+TC10552,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,17,UPI,No,2,No,Not Applicable
+TC10553,Bihar,East,Annual Plus 2999,Yearly,2999,249.92,2.0,23,Retail Recharge,No,1,No,Not Applicable
+TC10554,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,6,Credit/Debit Card,No,0,No,Not Applicable
+TC10555,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,32,Auto-Pay,No,3,No,Not Applicable
+TC10556,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,26,Credit/Debit Card,No,0,No,Not Applicable
+TC10557,Punjab,North,Smart 199,Monthly,199,199.0,1.5,21,Retail Recharge,No,3,No,Not Applicable
+TC10558,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,2,UPI,No,0,No,Not Applicable
+TC10559,Uttar Pradesh,North,Annual Saver 1799,Yearly,1799,149.92,1.5,9,UPI,No,0,No,Not Applicable
+TC10560,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,32,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10561,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,38,UPI,No,3,No,Not Applicable
+TC10562,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,36,Retail Recharge,No,0,No,Not Applicable
+TC10563,Tamil Nadu,South,Unlimited 999,Quarterly,999,333.0,2.0,24,Credit/Debit Card,No,2,No,Not Applicable
+TC10564,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,4,Retail Recharge,Yes,2,Yes,Better Offer
+TC10565,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,19,Retail Recharge,Yes,2,Yes,Network Issues
+TC10566,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,23,Retail Recharge,No,1,No,Not Applicable
+TC10567,Delhi,North,Unlimited 999,Quarterly,999,333.0,2.0,34,Retail Recharge,No,4,No,Not Applicable
+TC10568,Punjab,North,Smart 199,Monthly,199,199.0,1.5,53,UPI,No,0,Yes,Poor Customer Service
+TC10569,Telangana,South,Annual Max 3999,Yearly,3999,333.25,3.0,28,UPI,Yes,1,No,Not Applicable
+TC10570,Bihar,East,Premium 499,Monthly,499,499.0,3.0,40,Auto-Pay,No,0,No,Not Applicable
+TC10571,Karnataka,South,Annual Max 3999,Yearly,3999,333.25,3.0,5,Auto-Pay,No,0,Yes,Network Issues
+TC10572,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,3,Auto-Pay,Yes,0,No,Not Applicable
+TC10573,Bihar,East,Unlimited 999,Quarterly,999,333.0,2.0,27,Retail Recharge,No,1,No,Not Applicable
+TC10574,Andhra Pradesh,South,Annual Plus 2999,Yearly,2999,249.92,2.0,58,UPI,No,0,No,Not Applicable
+TC10575,Tamil Nadu,South,Annual Max 3999,Yearly,3999,333.25,3.0,15,Retail Recharge,No,0,No,Not Applicable
+TC10576,Delhi,North,Smart 199,Monthly,199,199.0,1.5,4,UPI,No,0,No,Not Applicable
+TC10577,Uttar Pradesh,North,Annual Max 3999,Yearly,3999,333.25,3.0,29,UPI,No,0,No,Not Applicable
+TC10578,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,24,UPI,No,0,No,Not Applicable
+TC10579,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,29,UPI,No,1,No,Not Applicable
+TC10580,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,29,Credit/Debit Card,No,1,No,Not Applicable
+TC10581,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,18,UPI,Yes,0,No,Not Applicable
+TC10582,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,24,Auto-Pay,No,2,Yes,High Price
+TC10583,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,4,UPI,Yes,2,Yes,High Price
+TC10584,Telangana,South,Smart 199,Monthly,199,199.0,1.5,50,Retail Recharge,No,0,No,Not Applicable
+TC10585,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,40,Auto-Pay,No,0,No,Not Applicable
+TC10586,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,52,UPI,No,0,No,Not Applicable
+TC10587,Goa,West,Premium 499,Monthly,499,499.0,3.0,1,UPI,No,0,No,Not Applicable
+TC10588,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,55,Retail Recharge,No,3,No,Not Applicable
+TC10589,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,45,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10590,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,20,UPI,No,1,No,Not Applicable
+TC10591,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,8,UPI,No,1,No,Not Applicable
+TC10592,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,7,UPI,Yes,1,No,Not Applicable
+TC10593,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,57,Retail Recharge,No,0,Yes,High Price
+TC10594,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,31,UPI,No,0,Yes,Poor Customer Service
+TC10595,Delhi,North,Annual Saver 1799,Yearly,1799,149.92,1.5,13,Credit/Debit Card,No,0,No,Not Applicable
+TC10596,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,36,Auto-Pay,Yes,0,No,Not Applicable
+TC10597,Bihar,East,Smart 199,Monthly,199,199.0,1.5,27,Auto-Pay,No,1,No,Not Applicable
+TC10598,Maharashtra,West,Annual Saver 1799,Yearly,1799,149.92,1.5,44,UPI,No,0,No,Not Applicable
+TC10599,Delhi,North,Value 799,Quarterly,799,266.33,1.5,55,UPI,No,0,No,Not Applicable
+TC10600,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,50,UPI,Yes,0,No,Not Applicable
+TC10601,Punjab,North,Smart 199,Monthly,199,199.0,1.5,7,Auto-Pay,No,0,No,Not Applicable
+TC10602,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,20,Credit/Debit Card,No,0,No,Not Applicable
+TC10603,Uttar Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,43,Credit/Debit Card,No,0,No,Not Applicable
+TC10604,Delhi,North,Unlimited 999,Quarterly,999,333.0,2.0,28,Credit/Debit Card,No,1,No,Not Applicable
+TC10605,Madhya Pradesh,West,Annual Plus 2999,Yearly,2999,249.92,2.0,28,Credit/Debit Card,No,3,No,Not Applicable
+TC10606,Tamil Nadu,South,Value 799,Quarterly,799,266.33,1.5,42,Credit/Debit Card,No,1,No,Not Applicable
+TC10607,Uttar Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,44,Retail Recharge,No,1,No,Not Applicable
+TC10608,Haryana,North,Smart 199,Monthly,199,199.0,1.5,60,UPI,No,0,No,Not Applicable
+TC10609,Karnataka,South,Premium 499,Monthly,499,499.0,3.0,44,UPI,No,0,No,Not Applicable
+TC10610,Telangana,South,Premium 499,Monthly,499,499.0,3.0,6,Auto-Pay,No,0,No,Not Applicable
+TC10611,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,53,Credit/Debit Card,No,1,No,Not Applicable
+TC10612,Haryana,North,Unlimited 999,Quarterly,999,333.0,2.0,11,Retail Recharge,Yes,0,No,Not Applicable
+TC10613,Haryana,North,Smart 199,Monthly,199,199.0,1.5,39,UPI,No,0,No,Not Applicable
+TC10614,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,29,Credit/Debit Card,No,0,Yes,Network Issues
+TC10615,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,51,UPI,Yes,0,No,Not Applicable
+TC10616,Jharkhand,East,Value 799,Quarterly,799,266.33,1.5,50,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10617,Telangana,South,Unlimited 299,Monthly,299,299.0,2.0,41,Credit/Debit Card,No,0,No,Not Applicable
+TC10618,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,59,Credit/Debit Card,No,0,No,Not Applicable
+TC10619,Haryana,North,Premium 499,Monthly,499,499.0,3.0,33,Credit/Debit Card,No,0,No,Not Applicable
+TC10620,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,2,Credit/Debit Card,No,1,No,Not Applicable
+TC10621,Kerala,South,Annual Plus 2999,Yearly,2999,249.92,2.0,6,Retail Recharge,No,1,No,Not Applicable
+TC10622,Kerala,South,Annual Plus 2999,Yearly,2999,249.92,2.0,25,Auto-Pay,No,0,No,Not Applicable
+TC10623,Goa,West,Premium 499,Monthly,499,499.0,3.0,43,Retail Recharge,Yes,1,No,Not Applicable
+TC10624,Jharkhand,East,Unlimited 999,Quarterly,999,333.0,2.0,8,UPI,Yes,2,No,Not Applicable
+TC10625,Haryana,North,Premium 499,Monthly,499,499.0,3.0,48,Credit/Debit Card,No,0,No,Not Applicable
+TC10626,Haryana,North,Premium 499,Monthly,499,499.0,3.0,34,UPI,No,1,No,Not Applicable
+TC10627,Rajasthan,North,Unlimited 999,Quarterly,999,333.0,2.0,53,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10628,Madhya Pradesh,West,Annual Plus 2999,Yearly,2999,249.92,2.0,48,UPI,No,1,No,Not Applicable
+TC10629,Goa,West,Unlimited 999,Quarterly,999,333.0,2.0,23,UPI,No,0,No,Not Applicable
+TC10630,Madhya Pradesh,Central,Unlimited 999,Quarterly,999,333.0,2.0,51,UPI,No,0,Yes,Poor Customer Service
+TC10631,West Bengal,East,Annual Saver 1799,Yearly,1799,149.92,1.5,57,UPI,Yes,2,No,Not Applicable
+TC10632,Odisha,East,Annual Saver 1799,Yearly,1799,149.92,1.5,40,Retail Recharge,Yes,0,No,Not Applicable
+TC10633,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,33,Auto-Pay,Yes,0,Yes,High Price
+TC10634,Uttar Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,24,Credit/Debit Card,No,2,No,Not Applicable
+TC10635,Bihar,East,Annual Plus 2999,Yearly,2999,249.92,2.0,11,UPI,No,2,No,Not Applicable
+TC10636,Andhra Pradesh,South,Premium 499,Monthly,499,499.0,3.0,42,Retail Recharge,No,1,No,Not Applicable
+TC10637,Uttar Pradesh,North,Annual Plus 2999,Yearly,2999,249.92,2.0,29,UPI,No,0,No,Not Applicable
+TC10638,Bihar,East,Smart 199,Monthly,199,199.0,1.5,37,Auto-Pay,No,1,No,Not Applicable
+TC10639,Jharkhand,East,Annual Saver 1799,Yearly,1799,149.92,1.5,16,UPI,No,0,No,Not Applicable
+TC10640,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,43,Auto-Pay,No,1,No,Not Applicable
+TC10641,Karnataka,South,Premium 499,Monthly,499,499.0,3.0,7,UPI,No,1,No,Not Applicable
+TC10642,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,45,UPI,No,1,No,Not Applicable
+TC10643,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,42,Retail Recharge,Yes,0,Yes,Poor Customer Service
+TC10644,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,16,UPI,Yes,1,No,Not Applicable
+TC10645,Andhra Pradesh,South,Annual Saver 1799,Yearly,1799,149.92,1.5,23,Auto-Pay,No,0,No,Not Applicable
+TC10646,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,7,UPI,No,0,No,Not Applicable
+TC10647,Gujarat,West,Annual Plus 2999,Yearly,2999,249.92,2.0,50,Retail Recharge,No,0,No,Not Applicable
+TC10648,Bihar,East,Annual Plus 2999,Yearly,2999,249.92,2.0,1,UPI,Yes,0,Yes,High Price
+TC10649,Madhya Pradesh,West,Unlimited 999,Quarterly,999,333.0,2.0,14,UPI,No,0,No,Not Applicable
+TC10650,Delhi,North,Premium 499,Monthly,499,499.0,3.0,41,Credit/Debit Card,No,2,Yes,Network Issues
+TC10651,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,35,UPI,Yes,2,Yes,Network Issues
+TC10652,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,33,Auto-Pay,No,0,No,Not Applicable
+TC10653,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,25,Retail Recharge,No,1,No,Not Applicable
+TC10654,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,36,UPI,No,2,No,Not Applicable
+TC10655,Uttar Pradesh,North,Value 799,Quarterly,799,266.33,1.5,15,UPI,No,1,No,Not Applicable
+TC10656,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,22,UPI,Yes,2,No,Not Applicable
+TC10657,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,58,UPI,Yes,0,Yes,Moved to Another Provider
+TC10658,Jharkhand,East,Premium 499,Monthly,499,499.0,3.0,50,Credit/Debit Card,No,0,No,Not Applicable
+TC10659,Haryana,North,Smart 199,Monthly,199,199.0,1.5,40,UPI,No,4,No,Not Applicable
+TC10660,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,57,Credit/Debit Card,No,3,No,Not Applicable
+TC10661,Tamil Nadu,South,Unlimited 999,Quarterly,999,333.0,2.0,49,UPI,No,0,No,Not Applicable
+TC10662,Odisha,East,Smart 199,Monthly,199,199.0,1.5,4,Auto-Pay,Yes,0,No,Not Applicable
+TC10663,Haryana,North,Smart 199,Monthly,199,199.0,1.5,19,Retail Recharge,Yes,2,No,Not Applicable
+TC10664,Maharashtra,West,Annual Saver 1799,Yearly,1799,149.92,1.5,50,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10665,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,16,UPI,No,0,No,Not Applicable
+TC10666,Jharkhand,East,Premium 499,Monthly,499,499.0,3.0,57,UPI,No,0,No,Not Applicable
+TC10667,Bihar,East,Annual Saver 1799,Yearly,1799,149.92,1.5,55,Auto-Pay,No,0,No,Not Applicable
+TC10668,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,7,UPI,No,0,No,Not Applicable
+TC10669,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,56,Auto-Pay,No,0,No,Not Applicable
+TC10670,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,57,UPI,No,1,No,Not Applicable
+TC10671,Goa,West,Annual Plus 2999,Yearly,2999,249.92,2.0,36,Auto-Pay,No,0,No,Not Applicable
+TC10672,Odisha,East,Smart 199,Monthly,199,199.0,1.5,11,UPI,No,0,No,Not Applicable
+TC10673,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,35,Credit/Debit Card,No,1,No,Not Applicable
+TC10674,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,51,Auto-Pay,No,0,No,Not Applicable
+TC10675,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,30,UPI,No,1,Yes,High Price
+TC10676,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,21,UPI,Yes,1,No,Not Applicable
+TC10677,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,2,Retail Recharge,No,1,No,Not Applicable
+TC10678,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,7,Retail Recharge,Yes,0,No,Not Applicable
+TC10679,Gujarat,West,Unlimited 999,Quarterly,999,333.0,2.0,35,UPI,No,1,Yes,Moved to Another Provider
+TC10680,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,56,Retail Recharge,No,0,Yes,Better Offer
+TC10681,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,59,Retail Recharge,No,0,No,Not Applicable
+TC10682,Punjab,North,Annual Plus 2999,Yearly,2999,249.92,2.0,34,Auto-Pay,No,2,No,Not Applicable
+TC10683,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,13,Retail Recharge,No,0,No,Not Applicable
+TC10684,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,16,UPI,No,0,No,Not Applicable
+TC10685,Tamil Nadu,South,Unlimited 999,Quarterly,999,333.0,2.0,38,Auto-Pay,Yes,0,No,Not Applicable
+TC10686,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,31,UPI,No,2,No,Not Applicable
+TC10687,Assam,East,Annual Plus 2999,Yearly,2999,249.92,2.0,32,UPI,Yes,1,Yes,Network Issues
+TC10688,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,34,Credit/Debit Card,No,0,No,Not Applicable
+TC10689,Andhra Pradesh,South,Annual Saver 1799,Yearly,1799,149.92,1.5,51,Credit/Debit Card,No,3,No,Not Applicable
+TC10690,Punjab,North,Annual Max 3999,Yearly,3999,333.25,3.0,60,Auto-Pay,No,0,No,Not Applicable
+TC10691,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,17,Retail Recharge,No,3,No,Not Applicable
+TC10692,Delhi,North,Annual Plus 2999,Yearly,2999,249.92,2.0,6,UPI,No,1,No,Not Applicable
+TC10693,Maharashtra,West,Value 799,Quarterly,799,266.33,1.5,1,UPI,No,0,Yes,High Price
+TC10694,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,48,Auto-Pay,No,0,No,Not Applicable
+TC10695,Madhya Pradesh,Central,Unlimited 999,Quarterly,999,333.0,2.0,19,Credit/Debit Card,No,0,No,Not Applicable
+TC10696,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,53,UPI,No,0,No,Not Applicable
+TC10697,Telangana,South,Premium 499,Monthly,499,499.0,3.0,28,Credit/Debit Card,No,0,No,Not Applicable
+TC10698,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,38,UPI,No,0,No,Not Applicable
+TC10699,Telangana,South,Annual Plus 2999,Yearly,2999,249.92,2.0,19,UPI,No,0,No,Not Applicable
+TC10700,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,43,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10701,Karnataka,South,Unlimited 999,Quarterly,999,333.0,2.0,37,UPI,No,1,No,Not Applicable
+TC10702,Assam,East,Value 799,Quarterly,799,266.33,1.5,16,Credit/Debit Card,No,1,No,Not Applicable
+TC10703,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,51,UPI,No,1,No,Not Applicable
+TC10704,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,2,Retail Recharge,No,0,Yes,High Price
+TC10705,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,3,Credit/Debit Card,No,0,No,Not Applicable
+TC10706,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,43,Credit/Debit Card,Yes,2,No,Not Applicable
+TC10707,Odisha,East,Smart 199,Monthly,199,199.0,1.5,27,Credit/Debit Card,No,1,Yes,Network Issues
+TC10708,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,35,Auto-Pay,No,2,No,Not Applicable
+TC10709,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,34,UPI,No,0,No,Not Applicable
+TC10710,Jharkhand,East,Value 799,Quarterly,799,266.33,1.5,56,Credit/Debit Card,Yes,1,Yes,Better Offer
+TC10711,Delhi,North,Annual Plus 2999,Yearly,2999,249.92,2.0,49,UPI,Yes,1,No,Not Applicable
+TC10712,Bihar,East,Smart 199,Monthly,199,199.0,1.5,10,Retail Recharge,Yes,1,No,Not Applicable
+TC10713,Chhattisgarh,Central,Premium 499,Monthly,499,499.0,3.0,18,Auto-Pay,No,0,No,Not Applicable
+TC10714,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,8,Credit/Debit Card,No,1,No,Not Applicable
+TC10715,Rajasthan,North,Annual Saver 1799,Yearly,1799,149.92,1.5,5,Auto-Pay,No,0,No,Not Applicable
+TC10716,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,8,Retail Recharge,No,0,Yes,Better Offer
+TC10717,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,6,Auto-Pay,No,1,No,Not Applicable
+TC10718,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,1,Auto-Pay,No,1,Yes,Network Issues
+TC10719,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,58,Auto-Pay,No,1,No,Not Applicable
+TC10720,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,59,Retail Recharge,No,1,No,Not Applicable
+TC10721,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,53,Retail Recharge,No,3,No,Not Applicable
+TC10722,Goa,West,Annual Max 3999,Yearly,3999,333.25,3.0,42,Retail Recharge,Yes,1,No,Not Applicable
+TC10723,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,60,UPI,No,0,No,Not Applicable
+TC10724,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,54,UPI,No,0,No,Not Applicable
+TC10725,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,35,Retail Recharge,Yes,2,No,Not Applicable
+TC10726,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,56,Credit/Debit Card,No,1,No,Not Applicable
+TC10727,Goa,West,Annual Max 3999,Yearly,3999,333.25,3.0,32,UPI,No,3,No,Not Applicable
+TC10728,Odisha,East,Annual Plus 2999,Yearly,2999,249.92,2.0,9,UPI,No,1,No,Not Applicable
+TC10729,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,34,Credit/Debit Card,No,2,No,Not Applicable
+TC10730,Odisha,East,Unlimited 999,Quarterly,999,333.0,2.0,33,Auto-Pay,Yes,2,Yes,Better Offer
+TC10731,Haryana,North,Premium 499,Monthly,499,499.0,3.0,34,Retail Recharge,No,1,No,Not Applicable
+TC10732,Rajasthan,North,Annual Max 3999,Yearly,3999,333.25,3.0,32,UPI,Yes,2,No,Not Applicable
+TC10733,Karnataka,South,Unlimited 999,Quarterly,999,333.0,2.0,26,Credit/Debit Card,No,0,No,Not Applicable
+TC10734,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,42,UPI,Yes,2,Yes,Poor Customer Service
+TC10735,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,35,Credit/Debit Card,No,0,No,Not Applicable
+TC10736,Madhya Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,53,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10737,Assam,East,Annual Plus 2999,Yearly,2999,249.92,2.0,52,Retail Recharge,No,1,No,Not Applicable
+TC10738,Goa,West,Unlimited 999,Quarterly,999,333.0,2.0,23,Auto-Pay,No,0,No,Not Applicable
+TC10739,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,38,UPI,No,0,No,Not Applicable
+TC10740,Goa,West,Smart 199,Monthly,199,199.0,1.5,16,UPI,Yes,0,Yes,Network Issues
+TC10741,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,6,UPI,No,1,No,Not Applicable
+TC10742,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,27,Credit/Debit Card,No,0,No,Not Applicable
+TC10743,Telangana,South,Unlimited 299,Monthly,299,299.0,2.0,17,UPI,Yes,1,No,Not Applicable
+TC10744,Punjab,North,Annual Max 3999,Yearly,3999,333.25,3.0,36,Retail Recharge,No,0,No,Not Applicable
+TC10745,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,38,Retail Recharge,Yes,0,No,Not Applicable
+TC10746,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,2,Auto-Pay,No,1,No,Not Applicable
+TC10747,Chhattisgarh,Central,Premium 499,Monthly,499,499.0,3.0,6,Auto-Pay,No,0,No,Not Applicable
+TC10748,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,53,Auto-Pay,No,0,No,Not Applicable
+TC10749,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,14,Auto-Pay,Yes,3,Yes,High Price
+TC10750,Haryana,North,Value 799,Quarterly,799,266.33,1.5,59,Credit/Debit Card,No,0,Yes,Network Issues
+TC10751,Goa,West,Annual Saver 1799,Yearly,1799,149.92,1.5,59,Retail Recharge,No,1,No,Not Applicable
+TC10752,Goa,West,Annual Max 3999,Yearly,3999,333.25,3.0,36,Auto-Pay,No,0,No,Not Applicable
+TC10753,Uttar Pradesh,North,Annual Plus 2999,Yearly,2999,249.92,2.0,43,UPI,No,0,No,Not Applicable
+TC10754,Assam,East,Annual Plus 2999,Yearly,2999,249.92,2.0,17,Retail Recharge,No,1,Yes,Better Offer
+TC10755,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,29,UPI,No,0,No,Not Applicable
+TC10756,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,17,UPI,No,0,No,Not Applicable
+TC10757,Uttar Pradesh,North,Premium 499,Monthly,499,499.0,3.0,27,Retail Recharge,No,1,No,Not Applicable
+TC10758,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,9,Credit/Debit Card,No,1,No,Not Applicable
+TC10759,Telangana,South,Annual Max 3999,Yearly,3999,333.25,3.0,45,Auto-Pay,No,0,No,Not Applicable
+TC10760,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,7,UPI,No,0,Yes,High Price
+TC10761,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,14,Retail Recharge,Yes,1,No,Not Applicable
+TC10762,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,23,Retail Recharge,No,0,No,Not Applicable
+TC10763,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,33,UPI,No,0,No,Not Applicable
+TC10764,Delhi,North,Annual Plus 2999,Yearly,2999,249.92,2.0,47,UPI,Yes,1,Yes,Network Issues
+TC10765,Assam,East,Smart 199,Monthly,199,199.0,1.5,28,Auto-Pay,No,1,No,Not Applicable
+TC10766,Tamil Nadu,South,Unlimited 999,Quarterly,999,333.0,2.0,46,Credit/Debit Card,No,1,No,Not Applicable
+TC10767,Madhya Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,38,Retail Recharge,No,2,No,Not Applicable
+TC10768,Goa,West,Value 799,Quarterly,799,266.33,1.5,49,UPI,Yes,0,No,Not Applicable
+TC10769,Kerala,South,Annual Saver 1799,Yearly,1799,149.92,1.5,26,UPI,No,0,No,Not Applicable
+TC10770,Bihar,East,Smart 199,Monthly,199,199.0,1.5,2,UPI,No,0,Yes,Moved to Another Provider
+TC10771,Tamil Nadu,South,Value 799,Quarterly,799,266.33,1.5,7,UPI,Yes,1,Yes,Network Issues
+TC10772,Telangana,South,Unlimited 999,Quarterly,999,333.0,2.0,24,UPI,No,3,No,Not Applicable
+TC10773,Odisha,East,Unlimited 999,Quarterly,999,333.0,2.0,28,UPI,Yes,0,No,Not Applicable
+TC10774,Odisha,East,Smart 199,Monthly,199,199.0,1.5,12,Retail Recharge,No,1,No,Not Applicable
+TC10775,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,59,UPI,Yes,0,No,Not Applicable
+TC10776,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,56,Auto-Pay,No,2,No,Not Applicable
+TC10777,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,26,UPI,No,1,No,Not Applicable
+TC10778,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,47,Auto-Pay,Yes,2,No,Not Applicable
+TC10779,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,40,UPI,No,1,No,Not Applicable
+TC10780,Telangana,South,Smart 199,Monthly,199,199.0,1.5,15,Retail Recharge,No,0,No,Not Applicable
+TC10781,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,10,Retail Recharge,No,1,Yes,High Price
+TC10782,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,14,Retail Recharge,No,1,No,Not Applicable
+TC10783,Punjab,North,Annual Plus 2999,Yearly,2999,249.92,2.0,47,UPI,No,0,No,Not Applicable
+TC10784,Karnataka,South,Annual Plus 2999,Yearly,2999,249.92,2.0,4,UPI,No,0,No,Not Applicable
+TC10785,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,24,Auto-Pay,No,0,No,Not Applicable
+TC10786,Punjab,North,Value 799,Quarterly,799,266.33,1.5,19,UPI,No,0,No,Not Applicable
+TC10787,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,33,Auto-Pay,Yes,1,No,Not Applicable
+TC10788,Assam,East,Smart 199,Monthly,199,199.0,1.5,50,Retail Recharge,No,0,No,Not Applicable
+TC10789,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,12,Retail Recharge,No,1,No,Not Applicable
+TC10790,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,36,UPI,No,1,No,Not Applicable
+TC10791,Rajasthan,North,Annual Plus 2999,Yearly,2999,249.92,2.0,43,UPI,Yes,2,No,Not Applicable
+TC10792,Bihar,East,Annual Saver 1799,Yearly,1799,149.92,1.5,29,Credit/Debit Card,No,0,No,Not Applicable
+TC10793,Jharkhand,East,Annual Plus 2999,Yearly,2999,249.92,2.0,9,Auto-Pay,No,1,No,Not Applicable
+TC10794,Bihar,East,Smart 199,Monthly,199,199.0,1.5,18,Credit/Debit Card,No,0,No,Not Applicable
+TC10795,Haryana,North,Smart 199,Monthly,199,199.0,1.5,25,UPI,No,0,No,Not Applicable
+TC10796,Odisha,East,Premium 499,Monthly,499,499.0,3.0,19,UPI,No,1,No,Not Applicable
+TC10797,Bihar,East,Unlimited 999,Quarterly,999,333.0,2.0,10,Retail Recharge,No,1,No,Not Applicable
+TC10798,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,25,Auto-Pay,No,1,No,Not Applicable
+TC10799,Haryana,North,Annual Saver 1799,Yearly,1799,149.92,1.5,31,UPI,No,0,No,Not Applicable
+TC10800,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,44,UPI,No,0,No,Not Applicable
+TC10801,Telangana,South,Value 799,Quarterly,799,266.33,1.5,59,UPI,No,0,No,Not Applicable
+TC10802,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,48,Auto-Pay,No,1,No,Not Applicable
+TC10803,Delhi,North,Unlimited 299,Monthly,299,299.0,2.0,7,Auto-Pay,No,1,No,Not Applicable
+TC10804,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,54,Retail Recharge,No,0,No,Not Applicable
+TC10805,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,58,Auto-Pay,No,1,No,Not Applicable
+TC10806,Kerala,South,Value 799,Quarterly,799,266.33,1.5,7,Auto-Pay,No,0,Yes,High Price
+TC10807,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,35,Retail Recharge,No,1,No,Not Applicable
+TC10808,Chhattisgarh,Central,Value 799,Quarterly,799,266.33,1.5,52,UPI,Yes,0,No,Not Applicable
+TC10809,Uttar Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,56,UPI,Yes,1,No,Not Applicable
+TC10810,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,54,Auto-Pay,Yes,1,No,Not Applicable
+TC10811,Uttar Pradesh,Central,Annual Max 3999,Yearly,3999,333.25,3.0,52,UPI,No,0,No,Not Applicable
+TC10812,Punjab,North,Smart 199,Monthly,199,199.0,1.5,12,Auto-Pay,No,0,No,Not Applicable
+TC10813,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,25,Retail Recharge,Yes,1,No,Not Applicable
+TC10814,Maharashtra,West,Annual Plus 2999,Yearly,2999,249.92,2.0,34,Retail Recharge,No,0,No,Not Applicable
+TC10815,Uttar Pradesh,North,Annual Saver 1799,Yearly,1799,149.92,1.5,8,Credit/Debit Card,No,1,No,Not Applicable
+TC10816,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,31,UPI,No,1,No,Not Applicable
+TC10817,Uttar Pradesh,Central,Annual Max 3999,Yearly,3999,333.25,3.0,57,UPI,No,1,No,Not Applicable
+TC10818,Telangana,South,Unlimited 999,Quarterly,999,333.0,2.0,7,Retail Recharge,No,0,No,Not Applicable
+TC10819,Karnataka,South,Annual Saver 1799,Yearly,1799,149.92,1.5,59,UPI,No,2,No,Not Applicable
+TC10820,Madhya Pradesh,West,Unlimited 999,Quarterly,999,333.0,2.0,12,UPI,No,1,No,Not Applicable
+TC10821,Gujarat,West,Premium 499,Monthly,499,499.0,3.0,34,Auto-Pay,No,0,No,Not Applicable
+TC10822,Kerala,South,Annual Saver 1799,Yearly,1799,149.92,1.5,17,UPI,No,0,No,Not Applicable
+TC10823,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,12,UPI,No,0,No,Not Applicable
+TC10824,Maharashtra,West,Premium 499,Monthly,499,499.0,3.0,43,Auto-Pay,No,0,No,Not Applicable
+TC10825,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,0,No,Not Applicable
+TC10826,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,51,UPI,No,1,No,Not Applicable
+TC10827,Bihar,East,Smart 199,Monthly,199,199.0,1.5,6,Retail Recharge,No,1,Yes,Network Issues
+TC10828,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,34,Auto-Pay,No,0,No,Not Applicable
+TC10829,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,2,Retail Recharge,No,1,No,Not Applicable
+TC10830,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,44,Auto-Pay,No,0,No,Not Applicable
+TC10831,Andhra Pradesh,South,Unlimited 999,Quarterly,999,333.0,2.0,29,Auto-Pay,No,0,No,Not Applicable
+TC10832,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,5,Auto-Pay,Yes,2,No,Not Applicable
+TC10833,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,3,Retail Recharge,No,0,Yes,Better Offer
+TC10834,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,23,UPI,No,0,No,Not Applicable
+TC10835,Gujarat,West,Value 799,Quarterly,799,266.33,1.5,11,UPI,Yes,2,No,Not Applicable
+TC10836,Delhi,North,Unlimited 999,Quarterly,999,333.0,2.0,56,Retail Recharge,Yes,0,No,Not Applicable
+TC10837,West Bengal,East,Annual Max 3999,Yearly,3999,333.25,3.0,5,UPI,Yes,0,No,Not Applicable
+TC10838,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,54,Auto-Pay,No,1,No,Not Applicable
+TC10839,Haryana,North,Smart 199,Monthly,199,199.0,1.5,24,Credit/Debit Card,No,2,No,Not Applicable
+TC10840,Assam,East,Smart 199,Monthly,199,199.0,1.5,51,UPI,No,1,No,Not Applicable
+TC10841,Punjab,North,Annual Plus 2999,Yearly,2999,249.92,2.0,52,Auto-Pay,No,0,No,Not Applicable
+TC10842,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,45,Auto-Pay,No,0,No,Not Applicable
+TC10843,Assam,East,Smart 199,Monthly,199,199.0,1.5,55,Auto-Pay,No,0,No,Not Applicable
+TC10844,Gujarat,West,Value 799,Quarterly,799,266.33,1.5,28,Retail Recharge,No,0,No,Not Applicable
+TC10845,Assam,East,Annual Saver 1799,Yearly,1799,149.92,1.5,21,Retail Recharge,No,0,No,Not Applicable
+TC10846,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,1,UPI,No,1,Yes,Network Issues
+TC10847,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,48,UPI,No,1,No,Not Applicable
+TC10848,Gujarat,West,Annual Plus 2999,Yearly,2999,249.92,2.0,4,UPI,No,0,No,Not Applicable
+TC10849,Bihar,East,Value 799,Quarterly,799,266.33,1.5,25,UPI,Yes,0,Yes,Network Issues
+TC10850,Rajasthan,North,Annual Max 3999,Yearly,3999,333.25,3.0,60,Credit/Debit Card,No,0,No,Not Applicable
+TC10851,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,10,Credit/Debit Card,No,2,Yes,Better Offer
+TC10852,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,11,Credit/Debit Card,No,1,No,Not Applicable
+TC10853,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,18,Retail Recharge,No,2,No,Not Applicable
+TC10854,Delhi,North,Smart 199,Monthly,199,199.0,1.5,16,UPI,No,1,No,Not Applicable
+TC10855,Telangana,South,Smart 199,Monthly,199,199.0,1.5,30,Credit/Debit Card,No,1,No,Not Applicable
+TC10856,Rajasthan,North,Smart 199,Monthly,199,199.0,1.5,42,Auto-Pay,No,0,Yes,Network Issues
+TC10857,Chhattisgarh,Central,Premium 499,Monthly,499,499.0,3.0,54,UPI,Yes,1,No,Not Applicable
+TC10858,Maharashtra,West,Premium 499,Monthly,499,499.0,3.0,19,Auto-Pay,No,1,No,Not Applicable
+TC10859,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,23,Auto-Pay,Yes,1,No,Not Applicable
+TC10860,Goa,West,Smart 199,Monthly,199,199.0,1.5,59,UPI,Yes,1,No,Not Applicable
+TC10861,Uttar Pradesh,North,Annual Max 3999,Yearly,3999,333.25,3.0,20,Credit/Debit Card,No,1,Yes,Network Issues
+TC10862,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,45,UPI,No,0,No,Not Applicable
+TC10863,Madhya Pradesh,Central,Smart 199,Monthly,199,199.0,1.5,17,Auto-Pay,No,0,No,Not Applicable
+TC10864,Uttar Pradesh,Central,Annual Plus 2999,Yearly,2999,249.92,2.0,25,UPI,No,1,No,Not Applicable
+TC10865,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,58,Credit/Debit Card,No,0,No,Not Applicable
+TC10866,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,30,Retail Recharge,No,0,No,Not Applicable
+TC10867,Rajasthan,North,Unlimited 299,Monthly,299,299.0,2.0,44,Credit/Debit Card,No,3,No,Not Applicable
+TC10868,Kerala,South,Premium 499,Monthly,499,499.0,3.0,36,UPI,No,3,No,Not Applicable
+TC10869,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,1,Yes,Better Offer
+TC10870,Chhattisgarh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,55,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10871,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,37,Auto-Pay,No,1,No,Not Applicable
+TC10872,Karnataka,South,Premium 499,Monthly,499,499.0,3.0,20,UPI,Yes,2,No,Not Applicable
+TC10873,Andhra Pradesh,South,Annual Saver 1799,Yearly,1799,149.92,1.5,38,Auto-Pay,No,1,No,Not Applicable
+TC10874,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,50,Credit/Debit Card,No,1,No,Not Applicable
+TC10875,Kerala,South,Premium 499,Monthly,499,499.0,3.0,52,UPI,No,0,No,Not Applicable
+TC10876,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,33,UPI,No,1,No,Not Applicable
+TC10877,Telangana,South,Unlimited 999,Quarterly,999,333.0,2.0,36,Auto-Pay,No,2,No,Not Applicable
+TC10878,Punjab,North,Annual Saver 1799,Yearly,1799,149.92,1.5,28,Credit/Debit Card,No,3,No,Not Applicable
+TC10879,Chhattisgarh,Central,Unlimited 299,Monthly,299,299.0,2.0,38,UPI,No,0,No,Not Applicable
+TC10880,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,22,UPI,Yes,0,No,Not Applicable
+TC10881,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,14,UPI,No,1,No,Not Applicable
+TC10882,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,34,Auto-Pay,Yes,0,No,Not Applicable
+TC10883,West Bengal,East,Unlimited 299,Monthly,299,299.0,2.0,40,UPI,No,1,No,Not Applicable
+TC10884,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,56,Credit/Debit Card,No,0,No,Not Applicable
+TC10885,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,13,UPI,Yes,0,No,Not Applicable
+TC10886,Uttar Pradesh,North,Annual Saver 1799,Yearly,1799,149.92,1.5,11,UPI,No,0,No,Not Applicable
+TC10887,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,9,UPI,No,0,Yes,Better Offer
+TC10888,Gujarat,West,Value 799,Quarterly,799,266.33,1.5,1,Credit/Debit Card,No,1,No,Not Applicable
+TC10889,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,50,UPI,No,0,No,Not Applicable
+TC10890,Gujarat,West,Premium 499,Monthly,499,499.0,3.0,29,Credit/Debit Card,Yes,1,Yes,Moved to Another Provider
+TC10891,Telangana,South,Unlimited 299,Monthly,299,299.0,2.0,9,UPI,No,0,No,Not Applicable
+TC10892,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,31,Credit/Debit Card,Yes,0,No,Not Applicable
+TC10893,Madhya Pradesh,West,Premium 499,Monthly,499,499.0,3.0,33,Retail Recharge,No,0,No,Not Applicable
+TC10894,Uttar Pradesh,North,Unlimited 999,Quarterly,999,333.0,2.0,8,Credit/Debit Card,No,0,No,Not Applicable
+TC10895,Bihar,East,Unlimited 999,Quarterly,999,333.0,2.0,57,Credit/Debit Card,No,1,No,Not Applicable
+TC10896,Telangana,South,Unlimited 999,Quarterly,999,333.0,2.0,4,UPI,No,0,No,Not Applicable
+TC10897,Goa,West,Smart 199,Monthly,199,199.0,1.5,14,Retail Recharge,No,2,No,Not Applicable
+TC10898,Assam,East,Annual Plus 2999,Yearly,2999,249.92,2.0,53,Credit/Debit Card,No,1,No,Not Applicable
+TC10899,Madhya Pradesh,West,Value 799,Quarterly,799,266.33,1.5,43,UPI,No,2,No,Not Applicable
+TC10900,Telangana,South,Smart 199,Monthly,199,199.0,1.5,36,Auto-Pay,Yes,0,Yes,Better Offer
+TC10901,Assam,East,Value 799,Quarterly,799,266.33,1.5,22,Credit/Debit Card,No,0,No,Not Applicable
+TC10902,Bihar,East,Annual Plus 2999,Yearly,2999,249.92,2.0,44,Retail Recharge,No,1,No,Not Applicable
+TC10903,Kerala,South,Annual Saver 1799,Yearly,1799,149.92,1.5,45,Auto-Pay,No,0,No,Not Applicable
+TC10904,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,60,Retail Recharge,No,2,No,Not Applicable
+TC10905,Karnataka,South,Smart 199,Monthly,199,199.0,1.5,45,UPI,No,1,No,Not Applicable
+TC10906,Andhra Pradesh,South,Smart 199,Monthly,199,199.0,1.5,22,Credit/Debit Card,Yes,1,Yes,Moved to Another Provider
+TC10907,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,55,Credit/Debit Card,No,0,No,Not Applicable
+TC10908,Rajasthan,North,Value 799,Quarterly,799,266.33,1.5,6,UPI,Yes,0,No,Not Applicable
+TC10909,Delhi,North,Annual Saver 1799,Yearly,1799,149.92,1.5,26,UPI,No,0,No,Not Applicable
+TC10910,Gujarat,West,Annual Saver 1799,Yearly,1799,149.92,1.5,55,UPI,No,1,No,Not Applicable
+TC10911,Madhya Pradesh,West,Smart 199,Monthly,199,199.0,1.5,9,Auto-Pay,No,1,No,Not Applicable
+TC10912,Madhya Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,17,UPI,No,3,No,Not Applicable
+TC10913,Goa,West,Smart 199,Monthly,199,199.0,1.5,34,Retail Recharge,No,0,No,Not Applicable
+TC10914,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,60,Credit/Debit Card,No,0,No,Not Applicable
+TC10915,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,36,Credit/Debit Card,Yes,0,Yes,High Price
+TC10916,Andhra Pradesh,South,Premium 499,Monthly,499,499.0,3.0,19,UPI,No,1,No,Not Applicable
+TC10917,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,41,Credit/Debit Card,No,0,No,Not Applicable
+TC10918,Punjab,North,Value 799,Quarterly,799,266.33,1.5,50,UPI,Yes,0,No,Not Applicable
+TC10919,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,20,UPI,No,0,No,Not Applicable
+TC10920,Gujarat,West,Value 799,Quarterly,799,266.33,1.5,38,UPI,No,0,Yes,High Price
+TC10921,Jharkhand,East,Smart 199,Monthly,199,199.0,1.5,55,Credit/Debit Card,No,1,No,Not Applicable
+TC10922,Assam,East,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,2,No,Not Applicable
+TC10923,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,54,UPI,No,1,No,Not Applicable
+TC10924,Goa,West,Premium 499,Monthly,499,499.0,3.0,4,Credit/Debit Card,No,0,Yes,Moved to Another Provider
+TC10925,Gujarat,West,Annual Max 3999,Yearly,3999,333.25,3.0,45,UPI,No,0,No,Not Applicable
+TC10926,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,16,Retail Recharge,No,1,No,Not Applicable
+TC10927,Maharashtra,West,Annual Saver 1799,Yearly,1799,149.92,1.5,54,UPI,Yes,0,No,Not Applicable
+TC10928,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,53,Auto-Pay,No,0,No,Not Applicable
+TC10929,Karnataka,South,Premium 499,Monthly,499,499.0,3.0,34,UPI,Yes,1,No,Not Applicable
+TC10930,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,20,Auto-Pay,No,3,No,Not Applicable
+TC10931,Assam,East,Unlimited 299,Monthly,299,299.0,2.0,60,Auto-Pay,No,1,No,Not Applicable
+TC10932,Telangana,South,Smart 199,Monthly,199,199.0,1.5,51,Credit/Debit Card,No,1,No,Not Applicable
+TC10933,Maharashtra,West,Unlimited 299,Monthly,299,299.0,2.0,30,Retail Recharge,Yes,0,No,Not Applicable
+TC10934,Bihar,East,Unlimited 999,Quarterly,999,333.0,2.0,34,UPI,No,0,No,Not Applicable
+TC10935,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,26,Credit/Debit Card,No,0,No,Not Applicable
+TC10936,Tamil Nadu,South,Smart 199,Monthly,199,199.0,1.5,50,Credit/Debit Card,No,0,No,Not Applicable
+TC10937,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,26,Retail Recharge,No,2,No,Not Applicable
+TC10938,Madhya Pradesh,West,Annual Plus 2999,Yearly,2999,249.92,2.0,54,Retail Recharge,No,1,No,Not Applicable
+TC10939,Andhra Pradesh,South,Unlimited 299,Monthly,299,299.0,2.0,26,UPI,Yes,2,No,Not Applicable
+TC10940,Madhya Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,2,UPI,Yes,0,No,Not Applicable
+TC10941,Bihar,East,Premium 499,Monthly,499,499.0,3.0,17,UPI,No,1,No,Not Applicable
+TC10942,Chhattisgarh,Central,Smart 199,Monthly,199,199.0,1.5,59,UPI,No,0,No,Not Applicable
+TC10943,Goa,West,Annual Plus 2999,Yearly,2999,249.92,2.0,53,Auto-Pay,No,0,No,Not Applicable
+TC10944,Karnataka,South,Unlimited 299,Monthly,299,299.0,2.0,10,Credit/Debit Card,No,0,No,Not Applicable
+TC10945,Goa,West,Smart 199,Monthly,199,199.0,1.5,56,Retail Recharge,No,0,Yes,Network Issues
+TC10946,Uttar Pradesh,Central,Unlimited 999,Quarterly,999,333.0,2.0,25,Auto-Pay,No,0,No,Not Applicable
+TC10947,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,17,Auto-Pay,Yes,0,No,Not Applicable
+TC10948,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,15,UPI,No,0,No,Not Applicable
+TC10949,Uttar Pradesh,North,Unlimited 299,Monthly,299,299.0,2.0,57,Auto-Pay,No,0,No,Not Applicable
+TC10950,Uttar Pradesh,Central,Value 799,Quarterly,799,266.33,1.5,20,UPI,No,1,No,Not Applicable
+TC10951,Punjab,North,Value 799,Quarterly,799,266.33,1.5,37,UPI,No,0,No,Not Applicable
+TC10952,Delhi,North,Smart 199,Monthly,199,199.0,1.5,29,Retail Recharge,No,0,No,Not Applicable
+TC10953,Goa,West,Smart 199,Monthly,199,199.0,1.5,52,Auto-Pay,No,1,No,Not Applicable
+TC10954,Haryana,North,Smart 199,Monthly,199,199.0,1.5,13,Credit/Debit Card,No,0,No,Not Applicable
+TC10955,Madhya Pradesh,Central,Annual Saver 1799,Yearly,1799,149.92,1.5,52,Retail Recharge,No,1,No,Not Applicable
+TC10956,Madhya Pradesh,West,Annual Plus 2999,Yearly,2999,249.92,2.0,16,Retail Recharge,No,0,No,Not Applicable
+TC10957,Rajasthan,North,Annual Saver 1799,Yearly,1799,149.92,1.5,52,Credit/Debit Card,No,1,No,Not Applicable
+TC10958,Jharkhand,East,Annual Max 3999,Yearly,3999,333.25,3.0,56,UPI,No,2,No,Not Applicable
+TC10959,Andhra Pradesh,South,Value 799,Quarterly,799,266.33,1.5,16,Credit/Debit Card,No,1,No,Not Applicable
+TC10960,Odisha,East,Unlimited 299,Monthly,299,299.0,2.0,31,UPI,Yes,0,No,Not Applicable
+TC10961,Odisha,East,Premium 499,Monthly,499,499.0,3.0,47,Credit/Debit Card,No,0,No,Not Applicable
+TC10962,Maharashtra,West,Smart 199,Monthly,199,199.0,1.5,20,Auto-Pay,Yes,0,No,Not Applicable
+TC10963,Delhi,North,Smart 199,Monthly,199,199.0,1.5,31,UPI,No,0,No,Not Applicable
+TC10964,Haryana,North,Unlimited 299,Monthly,299,299.0,2.0,3,UPI,No,1,No,Not Applicable
+TC10965,Tamil Nadu,South,Annual Saver 1799,Yearly,1799,149.92,1.5,57,Auto-Pay,No,2,Yes,High Price
+TC10966,Gujarat,West,Smart 199,Monthly,199,199.0,1.5,37,UPI,No,0,No,Not Applicable
+TC10967,Punjab,North,Unlimited 999,Quarterly,999,333.0,2.0,15,UPI,No,2,No,Not Applicable
+TC10968,Goa,West,Unlimited 299,Monthly,299,299.0,2.0,31,Credit/Debit Card,No,1,No,Not Applicable
+TC10969,Uttar Pradesh,North,Smart 199,Monthly,199,199.0,1.5,27,Auto-Pay,No,2,No,Not Applicable
+TC10970,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,33,Credit/Debit Card,No,2,No,Not Applicable
+TC10971,Haryana,North,Annual Saver 1799,Yearly,1799,149.92,1.5,29,Retail Recharge,No,2,No,Not Applicable
+TC10972,West Bengal,East,Annual Saver 1799,Yearly,1799,149.92,1.5,6,UPI,No,0,No,Not Applicable
+TC10973,Haryana,North,Smart 199,Monthly,199,199.0,1.5,52,Retail Recharge,No,1,No,Not Applicable
+TC10974,Bihar,East,Unlimited 299,Monthly,299,299.0,2.0,42,UPI,No,0,No,Not Applicable
+TC10975,West Bengal,East,Smart 199,Monthly,199,199.0,1.5,1,Credit/Debit Card,No,2,No,Not Applicable
+TC10976,Delhi,North,Smart 199,Monthly,199,199.0,1.5,58,UPI,No,1,No,Not Applicable
+TC10977,Kerala,South,Premium 499,Monthly,499,499.0,3.0,37,UPI,No,1,Yes,High Price
+TC10978,Uttar Pradesh,Central,Unlimited 299,Monthly,299,299.0,2.0,56,Auto-Pay,No,2,Yes,Moved to Another Provider
+TC10979,West Bengal,East,Premium 499,Monthly,499,499.0,3.0,2,Auto-Pay,No,0,No,Not Applicable
+TC10980,Punjab,North,Value 799,Quarterly,799,266.33,1.5,55,Credit/Debit Card,No,0,No,Not Applicable
+TC10981,Uttar Pradesh,North,Premium 499,Monthly,499,499.0,3.0,31,UPI,No,0,No,Not Applicable
+TC10982,Chhattisgarh,Central,Premium 499,Monthly,499,499.0,3.0,21,UPI,Yes,0,No,Not Applicable
+TC10983,Kerala,South,Unlimited 299,Monthly,299,299.0,2.0,17,Credit/Debit Card,No,2,No,Not Applicable
+TC10984,Madhya Pradesh,Central,Premium 499,Monthly,499,499.0,3.0,29,UPI,No,0,No,Not Applicable
+TC10985,Madhya Pradesh,West,Unlimited 299,Monthly,299,299.0,2.0,21,UPI,No,1,No,Not Applicable
+TC10986,Karnataka,South,Unlimited 999,Quarterly,999,333.0,2.0,48,Retail Recharge,No,2,Yes,High Price
+TC10987,Assam,East,Annual Saver 1799,Yearly,1799,149.92,1.5,5,Auto-Pay,No,0,No,Not Applicable
+TC10988,Maharashtra,West,Annual Saver 1799,Yearly,1799,149.92,1.5,17,Credit/Debit Card,No,2,Yes,Poor Customer Service
+TC10989,Delhi,North,Smart 199,Monthly,199,199.0,1.5,16,UPI,No,1,No,Not Applicable
+TC10990,Punjab,North,Unlimited 299,Monthly,299,299.0,2.0,43,Credit/Debit Card,No,1,No,Not Applicable
+TC10991,Goa,West,Premium 499,Monthly,499,499.0,3.0,27,Auto-Pay,No,0,No,Not Applicable
+TC10992,Delhi,North,Premium 499,Monthly,499,499.0,3.0,14,UPI,No,1,No,Not Applicable
+TC10993,Jharkhand,East,Unlimited 299,Monthly,299,299.0,2.0,33,Retail Recharge,No,1,No,Not Applicable
+TC10994,Assam,East,Premium 499,Monthly,499,499.0,3.0,3,UPI,Yes,1,No,Not Applicable
+TC10995,Karnataka,South,Value 799,Quarterly,799,266.33,1.5,10,Credit/Debit Card,No,0,No,Not Applicable
+TC10996,Tamil Nadu,South,Annual Plus 2999,Yearly,2999,249.92,2.0,9,Credit/Debit Card,No,1,No,Not Applicable
+TC10997,Gujarat,West,Unlimited 299,Monthly,299,299.0,2.0,45,Retail Recharge,Yes,0,No,Not Applicable
+TC10998,Goa,West,Smart 199,Monthly,199,199.0,1.5,13,Credit/Debit Card,Yes,1,No,Not Applicable
+TC10999,Madhya Pradesh,West,Annual Saver 1799,Yearly,1799,149.92,1.5,59,UPI,No,0,No,Not Applicable
+TC11000,Tamil Nadu,South,Unlimited 299,Monthly,299,299.0,2.0,51,UPI,No,1,No,Not Applicable

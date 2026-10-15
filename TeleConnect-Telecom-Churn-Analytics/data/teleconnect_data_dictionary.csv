@@ -1,0 +1,15 @@
+﻿Column,Meaning
+CustomerID,Unique customer ID; one row per customer.
+State,Indian state/territory assigned to the synthetic customer.
+Region,"North, South, East, West, or Central."
+PlanName,Name of the fictional telecom plan.
+PlanType,"Monthly, Quarterly, or Yearly plan duration."
+PlanPriceINR,"Price of the plan for its stated duration, in INR."
+MonthlyEquivalentINR,"Plan price divided by 1, 3, or 12 months for comparison."
+DailyDataGB,Illustrative daily data allowance in GB.
+TenureMonths,Number of months the customer has been with the provider.
+PaymentMethod,Customer's payment method.
+NetworkIssueReported,Whether the customer reported a network issue.
+SupportCalls,Number of support calls recorded for the customer.
+ChurnStatus,Yes means churned; No means retained.
+ChurnReason,Synthetic reason for churn; Not Applicable for retained customers.
