@@ -12,8 +12,6 @@ telecom provider.
 
 <img width="497" height="281" alt="image" src="https://github.com/user-attachments/assets/879ac4b7-a270-4f3f-a0ee-0f9ce4ff40de" />
 
-A PDF export of the dashboard is also available in the `screenshots/`
-folder.
 
 ## Business Objective
 
@@ -90,8 +88,7 @@ TeleConnect-Telecom-Churn-Analytics/
 ├── dashboard/
 │   └── TeleConnect_Churn_Dashboard.pbix
 └── screenshots/
-    ├── dashboard_overview.png
-    └── TeleConnect_Dashboard_Report.pdf
+    └── dashboard_overview.png
 ```
 
 If you have not added the `.pbix` file yet, save the report from Power
