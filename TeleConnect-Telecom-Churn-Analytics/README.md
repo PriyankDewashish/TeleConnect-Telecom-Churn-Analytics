@@ -10,7 +10,8 @@ telecom provider.
 
 ## Dashboard Preview
 
-![TeleConnect Power BI Dashboard](screenshots/dashboard_overview.png)
+![TeleConnect Power BI Dashboard](<img width="498" height="277" alt="dashboard_overview" src="https://github.com/user-attachments/assets/59d86ca0-98b3-4f20-9f8e-5eeff7fa08f1" />
+)
 
 A PDF export of the dashboard is also available in the `screenshots/`
 folder.
